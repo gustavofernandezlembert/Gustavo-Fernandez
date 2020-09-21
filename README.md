@@ -9,11 +9,9 @@
 
 * Statistical Methods Comparison for the analysis of Length of Hospital Stay (LOS) of 70,000 Diabetic Patient Record.
 
-* Prediction Ability vs Inference wich method perform better.
-
 * OLS Linear Regression, K-Nearest Neighbor, Poisson Regression methods were employed.
 
 
 # [Project 3: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
-* A simple explanation of the Maximum Likelihood of the normal distribution in R.
+* A simple explanation of the Maximum Likelihood Estimation of the Normal distribution in R.
