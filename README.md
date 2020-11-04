@@ -15,3 +15,7 @@
 # [Project 3: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
 * A simple explanation of the Maximum Likelihood Estimation of the Normal distribution in R.
+
+# [Project 4: Analysis of Router Setup Data](       )
+
+* The purpose of the analysis is to show how to pull signal from the noise when dealing with a messy dataset.
