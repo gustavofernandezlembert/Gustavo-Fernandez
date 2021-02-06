@@ -4,7 +4,7 @@
 
 * Stepwise model selection method was used to find the optimal model. 
 
-# [project 2: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://gustavofernandezlembert.github.io/Medicare-Hospital-Charges-/)
+# [Project 2: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://gustavofernandezlembert.github.io/Medicare-Hospital-Charges-/)
 
 * Study objective: To determine the association of New York hospitals metropolitan status with the mean charges for Medicare diagnosis(DRG-689) 
 
