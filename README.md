@@ -8,7 +8,6 @@
 
 * Study objective: To determine the association of New York hospitals metropolitan status with the mean charges for Medicare diagnosis(DRG-689) 
 
-
 # [Project 3: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
 * A simple explanation of the Maximum Likelihood Estimation of the Normal distribution in R.
@@ -19,7 +18,7 @@
 
 # [project 5: SQL Query: Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
 
-* some basic sql queries are provided to answer the assessment questions.
+* Several database squemas are provided follow by an assesment then the corresponding SQL query needed to answet the questions is provided.
 
 # [Project 5: Analysis LOS Diabetic Patient Records](https://github.com/gustavofernandezlembert/Analysis-Diabetic-Patients-Records-/blob/master/Analysis%20of%20length%20of%20Stay%20Diabetic.pdf)
 
