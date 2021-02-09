@@ -20,8 +20,4 @@
 
 * Several database squemas are provided followed by an assesment then several SQL queries are presented as solutions.
 
-# [Project 6: Analysis LOS Diabetic Patient Records](https://github.com/gustavofernandezlembert/Analysis-Diabetic-Patients-Records-/blob/master/Analysis%20of%20length%20of%20Stay%20Diabetic.pdf)
 
-* Statistical Methods Comparison for the analysis of Length of Hospital Stay (LOS) of 70,000 Diabetic Patient Record.
-
-* OLS Linear Regression, K-Nearest Neighbor, Poisson Regression methods were employed.
