@@ -1,6 +1,6 @@
 # [Project 1: Logistic Regression Heart Dataset](https://github.com/gustavofernandezlembert/Logistic-Regression-Heart-Data-/blob/master/Heart.pdf)
 
-* Developed a logistic regression model to capture the risk of having a heart disease. 
+* Built a logistic regression model to capture the risk of having a heart disease. 
 
 # [Project 2: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
 
