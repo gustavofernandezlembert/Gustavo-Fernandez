@@ -16,9 +16,9 @@
 
 * The purpose of the analysis is to show how to pull signal from the noise when dealing with a messy dataset.
 
-# [project 5: SQL Query: Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
+# [Project 5: SQL Query: Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
 
-* Several database squemas are provided followed by an assesment then the corresponding SQL query needed to answer the questions is provided.
+* Several database squemas are provided followed by an assesment then several SQL queries are presented as solutions.
 
 # [Project 5: Analysis LOS Diabetic Patient Records](https://github.com/gustavofernandezlembert/Analysis-Diabetic-Patients-Records-/blob/master/Analysis%20of%20length%20of%20Stay%20Diabetic.pdf)
 
