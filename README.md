@@ -6,7 +6,7 @@
 
 # [Project 2: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
 
-* Study objective: To determine the association of New York hospitals metropolitan status with the mean charges for Medicare diagnosis(DRG-689) 
+* Study objective: To determine the association of New York hospitals metropolitan status with the mean hospital charges for Medicare diagnosis(DRG-689) 
 
 # [Project 3: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
