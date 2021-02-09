@@ -16,7 +16,7 @@
 
 * The purpose of the analysis is to show how to pull signal from the noise when dealing with a messy dataset.
 
-# [Project 5: SQL: Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
+# [Project 5: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
 
 * Several database squemas are provided followed by an assesment then several SQL queries are presented as solutions.
 
