@@ -1,4 +1,3 @@
-
 # [Project 1: A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01685-8)
 
 * In this study, we compared the performance of the Poisson, negative binomial, zero-inflated Poisson , and zero-inflated negative binomial  regression models using simulated and empirical data. 
