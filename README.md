@@ -2,7 +2,6 @@
 
 * In this study, we compared the performance of the Poisson, negative binomial, zero-inflated Poisson , and zero-inflated negative binomial  regression models using simulated and empirical data. 
 
-
 # [Project 2: Logistic Regression Heart Dataset](https://github.com/gustavofernandezlembert/Logistic-Regression-Heart-Data-/blob/master/Heart.pdf)
 
 * Built a logistic regression model to capture the risk of having a heart disease. 
