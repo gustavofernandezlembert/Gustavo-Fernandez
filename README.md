@@ -1,4 +1,4 @@
-# [Project 0:A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://github.com/gustavofernandezlembert/Logistic-Regression-Heart-Data-/blob/master/Heart.pdf)
+# [Project 0: A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://github.com/gustavofernandezlembert/Logistic-Regression-Heart-Data-/blob/master/Heart.pdf)
 
 *In this study, we compared the performance of the Poisson, negative binomial (NB), zero-inflated Poisson (ZIP), and zero-inflated negative binomial (ZINB) regression models using simulated and empirical data. 
 
