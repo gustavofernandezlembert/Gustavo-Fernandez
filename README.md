@@ -1,6 +1,6 @@
 # About me
 
-I'm Gustavo Fernandez, a passionate professional in the field of telecommunications and data science. With a strong background in wireless communications (RF/RAN) and a keen interest in data analytics, I strive to bridge the gap between technology and insights.
+A passionate professional in the field of telecommunications and data science. With a strong background in wireless communications (RF/RAN) and a keen interest in data analytics, I strive to bridge the gap between technology and insights.
 
 In my professional journey as a Telecom Engineer, I have gained extensive experience in RF/RAN network optimization, design, rollout, KPI, and quality assurance. I have delved into the intricacies of 5G NR and LTE technologies, honing my skills in telecom infrastructure network principles, coverage and capacity requirements, and RF planning, design, and optimization. 
 
