@@ -14,7 +14,7 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 * In this study, we compared the performance of the Poisson, negative binomial (NB), zero-inflated Poisson (ZIP), and zero-inflated negative binomial (ZINB) regression models using simulated and empirical data.
 
-# [Project 2: A Survey of Machine Learning Algorithms for 6G Wireless Networks]()
+# [Project 2: A Survey of Machine Learning Algorithms for 6G Wireless Networks](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/A%20Survey%20of%20Machine%20Learning%20Algorithms%20for%206G%20Wireless%20Networks.edited%20(2).pdf)
 
 * This summary highlights the integration of Artificial Intelligence/Machine Learning (AI/ML) into wireless technology with the objectives of cost reduction, network performance optimization, and revenue generation.The chapter offers a thorough examination of ML techniques applicable to 6G wireless networks and identifies pressing research challenges that need prompt attention.
 
