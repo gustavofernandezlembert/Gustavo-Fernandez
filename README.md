@@ -6,7 +6,7 @@ My curiosity and drive to uncover meaningful insights led me to explore the worl
 
 Beyond my professional pursuits, I find great joy in taking leausure walks, going to the gym, playing softball and staying updated with the latest advancements in wireless technology and the world of data. I am an avid reader, always seeking inspiration from thought leaders in the field. Exploring new technologies, attending industry conferences, and engaging in discussions with fellow professionals are some of the ways I fuel my passion for continuous learning.
 
-Join me on this journey as I blend my expertise in Wireless communications and Data Science to make a positive impact.
+Join me on this journey as I blend my expertise in wireless communications and Data Science to make a positive impact.
 
 Thank you for visiting my About Me page. I look forward to connecting and sharing insights with like-minded individuals.
 
