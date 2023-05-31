@@ -14,27 +14,23 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 * In this study, we compared the performance of the Poisson, negative binomial (NB), zero-inflated Poisson (ZIP), and zero-inflated negative binomial (ZINB) regression models using simulated and empirical data.
 
-# [Project 2: A Survey of Machine Learning Algorithms for 6G Wireless Networks](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/A%20Survey%20of%20Machine%20Learning%20Algorithms%20for%206G%20Wireless%20Networks.edited%20(2).pdf)
-
-* This summary highlights the integration of Artificial Intelligence/Machine Learning (AI/ML) into wireless technology with the objectives of cost reduction, network performance optimization, and revenue generation.The chapter offers a thorough examination of ML techniques applicable to 6G wireless networks and identifies pressing research challenges that need prompt attention.
-
-# [Project 3: Logistic Regression Heart Dataset](https://github.com/gustavofernandezlembert/Logistic-Regression-Heart-Data-/blob/master/Heart.pdf)
+# [Project 2: Logistic Regression Heart Dataset](https://github.com/gustavofernandezlembert/Logistic-Regression-Heart-Data-/blob/master/Heart.pdf)
 
 * Developed a logistic regression model to assess the likelihood of experiencing heart disease.
 
-# [Project 4: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
+# [Project 3: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
 * A concise overview of Maximum Likelihood Estimation (MLE) applied to the Normal distribution using R.
+
+# [Project 4: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
+
+* The document includes multiple database schemas, followed by an evaluation, and presents a set of SQL queries as solutions.
 
 # [Project 5: Analysis of Router Setup Data](https://github.com/gustavofernandezlembert/Analysis-Router-Setup)
 
 * The objective of the analysis is to demonstrate effective techniques for extracting meaningful patterns from a complex and noisy dataset.
 
-# [Project 6: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
-
-* The document includes multiple database schemas, followed by an evaluation, and presents a set of SQL queries as solutions.
-
-# [Project 7: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
+# [Project 6: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
 
 * Study objective: To determine the association of New York hospitals metropolitan status with the mean hospital charges for Medicare diagnosis(DRG-689). 
 
