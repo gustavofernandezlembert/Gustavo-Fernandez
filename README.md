@@ -20,8 +20,7 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 # [Project 3: Waze Churn Project](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/1cd91b161aed7a225d510c0215afaeec90734e3e/%20Waze%20project%20lab.ipynb)
 
-Summary
-The Waze data team is currently developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. For the purposes of this project, churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. 
+The Waze data team is developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. For the purposes of this project, churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. 
 
 This report offers a preliminary data summary, information on the project status and key insights of Milestone 2, which impact the future development of the overall project.  
 
