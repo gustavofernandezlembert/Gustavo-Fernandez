@@ -18,19 +18,7 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 * Developed a logistic regression model to assess the likelihood of experiencing heart disease.
 
-# [Project 3: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
-
-* A concise overview of Maximum Likelihood Estimation (MLE) applied to the Normal distribution using R.
-
-# [Project 4: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
-
-* The document includes multiple database schemas, followed by an evaluation, and presents a set of SQL queries as solutions.
-
-# [Project 5: Analysis of Router Setup Data](https://github.com/gustavofernandezlembert/Analysis-Router-Setup)
-
-* The objective of the analysis is to demonstrate effective techniques for extracting meaningful patterns from a complex and noisy dataset.
-
-# [Project 6: Waze Churn Project](Waze project lab.ipynb)
+# [Project 3: Waze Churn Project](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/%20Waze%20project%20lab.ipynb)
 
 This project is part of a larger effort at Waze to increase growth. Typically, high retention rates indicate satisfied users who repeatedly use the Waze app over time. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
 
@@ -47,6 +35,18 @@ Waze’s data team is in the earliest stages of the churn project. The following
 * Examine data type of each column
 
 * Gather descriptive statistics
+  
+# [Project 4: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
+
+* The document includes multiple database schemas, followed by an evaluation, and presents a set of SQL queries as solutions.
+
+# [Project 5: Analysis of Router Setup Data](https://github.com/gustavofernandezlembert/Analysis-Router-Setup)
+
+* The objective of the analysis is to demonstrate effective techniques for extracting meaningful patterns from a complex and noisy dataset.
+
+# [Project 6: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
+
+* A concise overview of Maximum Likelihood Estimation (MLE) applied to the Normal distribution using R.
 
 # [Project 7: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
 
