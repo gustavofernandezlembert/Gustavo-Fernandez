@@ -34,19 +34,19 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 This project is part of a larger effort at Waze to increase growth. Typically, high retention rates indicate satisfied users who repeatedly use the Waze app over time. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
 
- *Who are the users most likely to churn?
+* Who are the users most likely to churn?
 
- *Why do users churn? 
+* Why do users churn? 
 
- *When do users churn? 
+* When do users churn? 
 
 Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
 
- *Build a dataframe for the churn dataset
+* Build a dataframe for the churn dataset
 
- *Examine data type of each column
+* Examine data type of each column
 
- *Gather descriptive statistics
+* Gather descriptive statistics
 
 # [Project 7: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
 
