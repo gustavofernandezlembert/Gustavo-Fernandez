@@ -30,7 +30,7 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 * The objective of the analysis is to demonstrate effective techniques for extracting meaningful patterns from a complex and noisy dataset.
 
-# [Project 6: Waze Churn Project)
+# [Project 6: Waze Churn Project](Waze project lab.ipynb)
 
 This project is part of a larger effort at Waze to increase growth. Typically, high retention rates indicate satisfied users who repeatedly use the Waze app over time. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
 
