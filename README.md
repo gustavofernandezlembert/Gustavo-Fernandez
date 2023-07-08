@@ -1,14 +1,12 @@
 # About me
 
-I hold a Bachelor of Science degree in Electrical Engineering and a Master of Science degree in Applied Statistics and Data Science. My expertise lies in the realm of wireless communications, specifically in RF/RAN, and I possess a profound fascination for the realm of Data Analytics. My ultimate goal is to foster a seamless connection between technology and valuable insights, thereby bridging the gap between the two domains.
+I hold a Bachelor of Science degree in Electrical Engineering and a Master of Science degree in Applied Statistics and Data Science. My expertise lies in the realm of wireless communications, specifically in RF/RAN, and I possess a profound fascination for the realm of Data Analytics. My ultimate objective is to effectively apply my proficiency in Data Science and Analytics, complemented by my domain expertise in RAN network design planning and optimization, in order to create substantial value for the industry through my work.
 
 My curiosity and drive to uncover meaningful insights led me to explore the world of Data Science. I have become proficient in leveraging tools such as SQL, Excel, R, Python, and SAS to extract valuable information from complex datasets. Data Analytics has become a powerful lens through which I can see beyond the numbers, uncover patterns, and provide actionable recommendations. I am also adept at visualizing data using tools like Tableau and Power BI, enabling effective communication of insights to a diverse audience.
 
-Beyond my professional pursuits, I find great joy in taking leausure walks, going to the gym, playing softball and staying updated with the latest advancements in wireless technology and the world of data. I am an avid reader, always seeking inspiration from thought leaders in the field. Exploring new technologies, attending industry conferences, and engaging in discussions with fellow professionals are some of the ways I fuel my passion for continuous learning.
+Beyond my professional pursuits, I find great joy in taking leausure walks, going to the gym, playing softball, exploring cities and staying updated with the latest advancements in wireless technology and the world of data science. I am an avid reader, always seeking inspiration from thought leaders in the field. Exploring new technologies, attending industry conferences, and engaging in discussions with fellow professionals are some of the ways I fuel my passion for continuous learning.
 
-Join me on this journey as I blend my expertise in wireless communications and Data Science to make a positive impact.
-
-Thank you for visiting my About Me page. I look forward to connecting and sharing insights with like-minded individuals.
+Thank you for visiting my About Me page. I look forward to connecting with like-minded individuals.
 
 # [Project 1: A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01685-8)
 
