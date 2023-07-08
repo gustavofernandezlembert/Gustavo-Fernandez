@@ -20,21 +20,20 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 # [Project 3: Waze Churn Project](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/1cd91b161aed7a225d510c0215afaeec90734e3e/%20Waze%20project%20lab.ipynb)
 
-This project is part of a larger effort at Waze to increase growth. Typically, high retention rates indicate satisfied users who repeatedly use the Waze app over time. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
+Summary
+The Waze data team is currently developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. For the purposes of this project, churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. 
 
-* Who are the users most likely to churn?
+This report offers a preliminary data summary, information on the project status and key insights of Milestone 2, which impact the future development of the overall project.  
 
-* Why do users churn? 
+Milestone 2 Objectives:
 
-* When do users churn? 
+* Inspect user data to learn important relationships between variables. 
 
-Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
+Methods: 
+* Built a dataframe where Each row represents a single observation, and each column represents a single variable
+* Collected preliminary statistics
+* Analyzed user behavior
 
-* Build a dataframe for the churn dataset
-
-* Examine data type of each column
-
-* Gather descriptive statistics 
   
 # [Project 4: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
 
