@@ -34,7 +34,7 @@ Waze’s data team is in the earliest stages of the churn project. The following
 
 * Examine data type of each column
 
-* Gather descriptive statistics
+* Gather descriptive statistics 
   
 # [Project 4: SQL Assessment](https://github.com/gustavofernandezlembert/Example_of_SQL_Querys)
 
