@@ -18,7 +18,7 @@ Thank you for visiting my About Me page. I look forward to connecting and sharin
 
 * Developed a logistic regression model to assess the likelihood of experiencing heart disease.
 
-# [Project 3: Waze Churn Project]
+# [Project 3: Waze Churn Project] 
 
 This project is part of a larger effort at Waze to increase growth. Typically, high retention rates indicate satisfied users who repeatedly use the Waze app over time. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
 
