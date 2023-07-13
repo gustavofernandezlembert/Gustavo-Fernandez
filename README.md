@@ -55,9 +55,5 @@ Methods:
 
 
 
-* Study objective: To determine the association of New York hospitals metropolitan status with the mean hospital charges for Medicare diagnosis(DRG-689). 
-
-
-
 
 
