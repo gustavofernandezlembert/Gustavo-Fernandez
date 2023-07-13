@@ -51,9 +51,9 @@ Methods:
 
 # [Project 7: Maximum Likelihood Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
-* A concise overview of Maximum Likelihood Estimation (MLE) applied to the Normal distribution using R.
+* A simple overview of Maximum Likelihood Estimation (MLE) applied to the Normal distribution using R.
 
-# [Project 8: Medicare Hospital Charges for DRG-689: Association with Hospital Metropolitan Status ](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-)
+
 
 * Study objective: To determine the association of New York hospitals metropolitan status with the mean hospital charges for Medicare diagnosis(DRG-689). 
 
