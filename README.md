@@ -12,9 +12,9 @@ Thank you for visiting my About Me page. I look forward to connecting with like-
 
 * This project aims to simplify the process of converting KML files containing Google Earth placemarks into HTML tables.
   
-* It eliminates the need for manually copying the placemark coordinates one by one, the proposed workflow involves organizing all placemarks within a folder in Google Earth, exporting the folder as a .kml file, and uploading it to the app. The resulting table can then be easily copied and pasted directly into any report. 
-
-* This tool is especially useful for professionals who frequently use Google Earth and need to include multiple placemark coordinates in their reports.
+* It eliminates the need for manually copying the placemark coordinates and pasting them into other documents one by one. The proposed workflow involves organizing all placemarks of your project within a folder in Google Earth, exporting the folder as a .kml file, and uploading it to the app. The app will generate a table displaying each placemark's name and their corresponding lat and long coordinates. 
+                                                                      
+* This tool is ideal for professionals who frequently use Google Earth and need to extract and organize multiple placemarks' names and coordinate information into a table format. It simplifies the process, allowing easy copying into other documents like PPT, Word, and spreadsheets.
 
 * The script has been developed into a web app and can be accessed through the following link:  https://project-392521.uw.r.appspot.com/                
 
