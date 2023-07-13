@@ -8,7 +8,7 @@ Beyond my professional pursuits, I find great joy in taking leisure walks, going
 
 Thank you for visiting my About Me page. I look forward to connecting with like-minded individuals.
 
-# [Project 1: EarthMark: Transforming Google Earth Placemarks into HTML Tables](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
+# [Project 1 EarthMark: Transforming Google Earth Placemarks into HTML Tables](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
 
 * This project aims to simplify the process of converting KML files containing Google Earth placemarks into HTML tables.
   
