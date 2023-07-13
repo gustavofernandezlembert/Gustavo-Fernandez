@@ -17,7 +17,6 @@ Thank you for visiting my About Me page. I look forward to connecting with like-
 * This tool is ideal for professionals who frequently use Google Earth and need to extract and organize multiple placemarks' names and coordinate information into a table format. It simplifies the process, allowing easy copying into other documents like PPT, Word, and spreadsheets.
 
 * The script has been developed into a web app and can be accessed through the following link: [EarthMarkApp](https://project-392521.uw.r.appspot.com/)                
-
 # [Project 2: A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01685-8)
 
 * In this study, we compared the performance of the Poisson, negative binomial (NB), zero-inflated Poisson (ZIP), and zero-inflated negative binomial (ZINB) regression models using simulated and empirical data.
