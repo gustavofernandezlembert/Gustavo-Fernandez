@@ -4,7 +4,9 @@ Experienced Telecom Engineer with a specialization in wireless communications (R
 operation. Additionally, I possess Data Science and Analytics skills, enabling me to extract valuable insights from telecom data. I deliver data-driven solutions, actionable insights, and recommendations to optimize network performance and operational efficiency.
 
 RF tools: Atoll, QGIS, Wavescape, IBMS, Xcal, Xcap.
+
 Data Science & Analytics tools: SQL, R, Python, SAS, Tableau, Power BI.
+
 Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ggplot2, ElementTree, TensorFlow.
 
 Beyond my professional pursuits, I find great joy in taking leisure walks, going to the gym, playing softball, exploring cities, and staying updated with the latest advancements in wireless technology and the world of data science. I am an avid reader, always seeking inspiration from thought leaders in the field. Exploring new technologies, attending industry conferences, and engaging in discussions with fellow professionals are some of the ways I fuel my passion for continuous learning.
