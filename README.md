@@ -1,8 +1,11 @@
 # About me
 
-I hold a Bachelor of Science degree in Electrical Engineering and a Master of Science degree in Applied Statistics and Data Science. My expertise lies in the realm of wireless communications, specifically in RF/RAN, and I possess a profound fascination for the realm of Data Analytics. My ultimate objective is to effectively apply my proficiency in Data Science and Analytics, complemented by my domain expertise in RF/RAN network design planning and optimization, in order to create substantial value for the industry through my work.
+Experienced Telecom Engineer with a specialization in wireless communications (RF/RAN) with a strong focus on 5G RF/ RAN network optimization, design, rollout, KPI, and quality assurance. With over 10 years of professional experience, I am well-versed in 3GPP standards, RAN architecture, signaling, and 
+operation. Additionally, I possess Data Science and Analytics skills, enabling me to extract valuable insights from telecom data. I deliver data-driven solutions, actionable insights, and recommendations to optimize network performance and operational efficiency.
 
-My curiosity and drive to uncover meaningful insights led me to explore the world of Data Science. I have become proficient in leveraging SQL, Excel, R, Python, and SAS tools to extract valuable information from complex datasets. Data Analytics has become a powerful lens through which I can see beyond the numbers, uncover patterns, and provide actionable recommendations.
+RF tools: Atoll, QGIS, Wavescape, IBMS, Xcal, Xcap.
+Data Science & Analytics tools: SQL, R, Python, SAS, Tableau, Power BI.
+Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ggplot2, ElementTree, TensorFlow.
 
 Beyond my professional pursuits, I find great joy in taking leisure walks, going to the gym, playing softball, exploring cities, and staying updated with the latest advancements in wireless technology and the world of data science. I am an avid reader, always seeking inspiration from thought leaders in the field. Exploring new technologies, attending industry conferences, and engaging in discussions with fellow professionals are some of the ways I fuel my passion for continuous learning.
 
