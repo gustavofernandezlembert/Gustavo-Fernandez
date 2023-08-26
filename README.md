@@ -36,13 +36,9 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 
 ## GitHub Projects
 
-### [Gustavo-Fernandez](https://github.com/gustavofernandezlembert/Gustavo-Fernandez)
-Personal portfolio and introduction page.
-
 ### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
 Transforming Google Earth Placemarks into HTML Tables.
 
-... [Add other projects in a similar format]
 
 ---
 
