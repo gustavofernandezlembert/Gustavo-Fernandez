@@ -33,13 +33,6 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 
 ---
 
-## GitHub Projects
-
-### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
-Transforming Google Earth Placemarks into HTML Tables.
-
-
----
 
 ## Publications
 
@@ -51,3 +44,12 @@ Transforming Google Earth Placemarks into HTML Tables.
 ## Presentations
 
 - **Comparison of Statistical Regression Models in Analysis of Hospital Length of Stay.** Conference on Statistical Practice, American Statistical Association (ASA), Feb. 02, 2022.
+
+
+----
+
+## GitHub Projects
+
+### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
+Transforming Google Earth Placemarks into HTML Tables.
+
