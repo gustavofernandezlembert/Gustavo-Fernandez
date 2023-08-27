@@ -1,8 +1,8 @@
 
 
 
-remote_theme           : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : contrast
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: contrast
 
 
 plugins:
