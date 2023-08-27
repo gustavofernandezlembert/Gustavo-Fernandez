@@ -22,14 +22,11 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 ### Pivotal Commware (January 2023 - Current)
 **RF Systems Deployment Engineer**  
 - Market lead RF engineer overseeing RF design, testing, and validation.
-... [Add other bullet points similarly]
 
 ### Verizon Wireless (June 2021 – December 2022)
 **RF Engineer II**  
 - Identifying and designing capacity solutions.
-... [Add other bullet points similarly]
 
-... [Continue with other roles in a similar format]
 
 ---
 
@@ -37,7 +34,7 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 ## Publications
 
 - **A comparison of statistical methods for modeling count data with an application to hospital length of stay.** Co-authored with Dr. Kristina Vatcheva, Published in BMC Medical Research Methodology, Aug. 4, 2022.
-... [Continue with other publications in a similar format]
+
 
 ---
 
