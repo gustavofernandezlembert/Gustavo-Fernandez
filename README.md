@@ -1,4 +1,9 @@
-
+layout: single
+sidebar:
+  - title: Title
+    image: /path-to-image/
+    image_alt: "image description"
+    text: Some text here
  **(612)-916-0271**  
  [gfernandez.lembert@gmail.com](mailto:gfernandez.lembert@gmail.com)
 
