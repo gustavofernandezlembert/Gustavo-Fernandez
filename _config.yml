@@ -4,6 +4,18 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: contrast
 
+author:
+  name: Gustavo A Fernandez
+  bio: "Your short bio"
+  avatar: "path-to-your-avatar-image"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gfernandez.lembert@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/yourusername"
+
 
 plugins:
   - jekyll-paginate
