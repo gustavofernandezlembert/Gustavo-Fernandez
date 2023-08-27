@@ -1,6 +1,7 @@
 
 
-remote_theme: pages-themes/merlot@v0.1.1
+remote_theme: pages-themes/slate@v0.1.1
+
 
 
 plugins:
