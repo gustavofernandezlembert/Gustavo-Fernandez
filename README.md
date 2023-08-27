@@ -1,8 +1,4 @@
-layout: single
-sidebar:
-  - title: Title
-    text: Some text here
-    
+
  **(612)-916-0271**  
  [gfernandez.lembert@gmail.com](mailto:gfernandez.lembert@gmail.com)
 
