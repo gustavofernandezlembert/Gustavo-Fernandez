@@ -4,14 +4,14 @@ remote_theme: samarsault/plainwhite-jekyll
 
 
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Gustavo A. Fernandez
+  tagline: RF Engineer. Data Scientist
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: samarsault
-    github: samarsault
-    linkedIn: in/samarsault # format: locale/username
+    twitter: gustavoflembert
+    github: gustavofernandezlembert
+    linkedIn: https://www.linkedin.com/in/gustavofernandezlembert/
 
 
 
