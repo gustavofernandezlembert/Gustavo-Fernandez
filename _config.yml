@@ -4,6 +4,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+layout: single
+sidebar:
+  - title: "Title"
+    image: /path-to-image/
+    image_alt: "image description"
+    text: "Some text here."
+
 
 
 
