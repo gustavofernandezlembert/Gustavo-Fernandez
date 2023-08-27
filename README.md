@@ -45,7 +45,7 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 
 ----
 
-## GitHub Projects
+## Selected Projects
 
 ### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
 Transforming Google Earth Placemarks into HTML Tables.
