@@ -2,13 +2,11 @@
 remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
-  name: Gustavo A. Fernandez
-  tagline: RF Engineer. Data Scientist
+  name: Gustavo Fernandez
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   portfolio_image: 1691624797959.jpeg
-  dark_mode: true # set to true to add dark mode toggle
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
