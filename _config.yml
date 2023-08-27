@@ -2,7 +2,6 @@
 remote_theme: samarsault/plainwhite-jekyll
 
 
-
 plainwhite:
   name: Gustavo A. Fernandez
   tagline: RF Engineer. Data Scientist
@@ -12,8 +11,6 @@ plainwhite:
     twitter: gustavoflembert
     github: gustavofernandezlembert
     linkedIn: https://www.linkedin.com/in/gustavofernandezlembert/
-
-
 
 
 
