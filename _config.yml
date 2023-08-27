@@ -2,26 +2,48 @@
 remote_theme: samarsault/plainwhite-jekyll
 
 
-plainwhite:
-  name: Gustavo A. Fernandez
-  tagline: RF Engineer. Data Scientist
-  date_format: "%b %-d, %Y"
 
   social_links:
     twitter: gustavoflembert
     github: gustavofernandezlembert
     linkedIn: in/gustavofernandezlembert
 
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Gustavo A. Fernandez
+  tagline: RF Engineer. Data Scientist
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
+  search: true # set to true to enable searchbar
+  dark_mode: true # set to true to add dark mode toggle
+  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+ 
+
+# Build settings
+theme: plainwhite
 
 
-
-
+  
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 
