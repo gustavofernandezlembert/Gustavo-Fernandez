@@ -20,8 +20,8 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 ## Professional Experience
 
 
-- **RF Systems Deployment Engineer - Pivotal Commware (January 2023 - Current)**  
-- **RF Engineer II - Verizon Wireless (June 2021 – December 2022)**  
+- **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - Current)  
+- **RF Engineer II**, Verizon Wireless (June 2021 – December 2022) 
 
 
 
