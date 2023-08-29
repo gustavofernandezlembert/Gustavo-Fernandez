@@ -36,10 +36,6 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 
 ---
 
-
-
-----
-
 ## Projects
 
 ### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
