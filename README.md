@@ -6,7 +6,7 @@
 
 ## Summary
 
-Experienced Telecom Engineer specializing in wireless communications (RF/RAN) with a strong focus on 5G RF/ RAN network optimization, design, rollout, KPI, and quality assurance. With over 10 years of professional experience, I am well-versed in 3GPP standards, RAN architecture, signaling, and operation. I possess Data Science and Analytics skills, enabling me to extract valuable insights from telecom data and deliver data-driven solutions.
+Telecom Engineer with expertise in wireless RF/RAN network optimization, design, rollout, and quality assurance. Proficient in 3GPP standards, RAN architecture, and signaling. Skilled in Data Science and Analytics, adept at deriving insights from telecom data to drive data-driven solutions.
 
 ---
 
