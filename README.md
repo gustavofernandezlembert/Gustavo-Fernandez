@@ -36,9 +36,6 @@ Experienced Telecom Engineer specializing in wireless communications (RF/RAN) wi
 
 ---
 
-## Presentations
-
-- **Comparison of Statistical Regression Models in Analysis of Hospital Length of Stay.** Conference on Statistical Practice, American Statistical Association (ASA), Feb. 02, 2022.
 
 
 ----
