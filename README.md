@@ -21,7 +21,12 @@ Experienced Telecom Engineer with expertise in wireless communications 3G/4G/5G 
 
 
 - **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - Current)  
-- **RF Engineer II**, Verizon Wireless (June 2021 – December 2022) 
+- **RF Engineer II**, Verizon Wireless (June 2021 – December 2022)
+- **Research Assistant**, The University of Texas Rio Grande Valley (June 2019 - May 2021)
+- **RF Optimization Engineer**, Manpower (Aug 2016 - Jul 2018)
+- **Network Consulting Engineer**, Cisco (Feb 2015 - Jul 2016)
+- **RF Optimization Engineer**, AlticeDo (Sep 2013 - Feb 2015)
+- **RF Engineer**, Wind Telecom (Oct 2010 - Aug 2013)
 
 
 
