@@ -1,5 +1,5 @@
 
-
+---
 ## Education
 
 - **MS Applied Statistics and Data Science**, The University of Texas Rio Grande Valley, May 2021
