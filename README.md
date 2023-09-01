@@ -13,7 +13,7 @@ Experienced Telecom Engineer with expertise in wireless communications 3G/4G/5G 
 
 ---
 
-## Professional Experience
+## Experience
 
 
 - **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - Current)  
