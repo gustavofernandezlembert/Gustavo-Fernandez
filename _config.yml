@@ -12,15 +12,15 @@ plainwhite:
     - page
     - post
 
-    includes:
-  - custom_header.html
 
   social_links:
     twitter: gustavoflembert
     github: gustavofernandezlembert
     linkedIn: in/gustavofernandezlembert 
     
-   
+    includes:
+  - custom_header.html
+  
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
