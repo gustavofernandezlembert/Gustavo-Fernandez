@@ -11,7 +11,10 @@ plainwhite:
     #- home
     - page
     - post
-    
+
+    includes:
+  - custom_header.html
+
   social_links:
     twitter: gustavoflembert
     github: gustavofernandezlembert
