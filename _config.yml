@@ -1,5 +1,9 @@
 remote_theme: samarsault/plainwhite-jekyll
 
+
+
+email: gfernandez.lembert@gmail.com
+
 plainwhite:
   name: Gustavo Fernandez
   date_format: "%b %-d, %Y"
