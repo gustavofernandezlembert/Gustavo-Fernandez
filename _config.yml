@@ -17,6 +17,9 @@ plainwhite:
     github: gustavofernandezlembert
     linkedIn: in/gustavofernandezlembert 
     
+    includes:
+  - custom_header.html
+
     
 plugins:
   - jekyll-paginate
