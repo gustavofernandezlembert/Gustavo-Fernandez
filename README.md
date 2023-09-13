@@ -43,7 +43,7 @@ Experienced Telecom Engineer with expertise in wireless communications 3G/4G/5G 
 Transforming Google Earth Placemarks into HTML Tables.
 
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
-This project showcases SQL querying using a fictional insurance database. The relational database consists of tables of people, cars, accidents, and their relationships.
+SQL querying demo using a fictional insurance database.
 
 ### [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 Simplifying Maximum Likelihood Estimation with R.
