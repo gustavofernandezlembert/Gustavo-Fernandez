@@ -44,3 +44,5 @@ Transforming Google Earth Placemarks into HTML Tables.
 
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 This project showcases SQL querying using a fictional insurance database. The relational database consists of tables of people, cars, accidents, and their relationships.
+
+### [MLE Normal Distribution in R](https://github.com/gustavofernandezlembert/Maximum-Likelihood) 
