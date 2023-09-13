@@ -43,3 +43,4 @@ Experienced Telecom Engineer with expertise in wireless communications 3G/4G/5G 
 Transforming Google Earth Placemarks into HTML Tables.
 
 ### [Insurance Database SQL Queries Project](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
+This project showcases SQL querying using a fictional insurance database. The database consists of tables related to people, cars, accidents, and inter-relationships.
