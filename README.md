@@ -36,6 +36,7 @@ Experienced Telecom Engineer with expertise in wireless communications 3G/4G/5G 
 - **A comparison of statistical methods for modeling count data with an application to hospital length of stay.** Co-authored with Dr. Kristina Vatcheva, Published in BMC Medical Research Methodology, Aug. 4, 2022.
 
 - **Machine Learning for Wireless Network Throughput Prediction.** Gustavo A Fernandez, PREPRINT (Version 1) available at Research Square, Aug. 2023.
+  
 ---
 
 ## Projects
