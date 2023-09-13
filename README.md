@@ -47,3 +47,6 @@ This project showcases SQL querying using a fictional insurance database. The re
 
 ### [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 Simplifying Maximum Likelihood Estimation with R.
+
+### [Logistic Regression - Heart Dataset](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
+Logistic Regression for Coronary Heart Disease Prediction.
