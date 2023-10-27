@@ -3,7 +3,7 @@
 ---
 ## Summary
 
-Experienced Telecom Engineer with expertise in wireless communications 3G/4G/5G RF design, optimization, rollout, KPI and quality assurance. Proficient in 3GPP standards, RAN architecture, signaling and operations. Skilled in Data Science and Analytics, adept at deriving insights from telecom data.
+ Telecom Engineer with a strong specialization in RF design, optimization, rollout, and KPI analysis, particularly in the context of wireless communication technologies like 3G, 4G, and 5G. My expertise extends to 3GPP standards, RAN architecture, signaling protocols, and network operations. I possess advanced skills in Data Science and Analytics, enabling me to extract actionable insights from diverse data sources. My proficiency in software development complements my problem-solving abilities within the wireless communication space, allowing me to innovate and provide effective solutions.
 
 ---
 ## Education
