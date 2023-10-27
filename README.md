@@ -5,12 +5,6 @@
 
 Telecom Engineer with expertise in Wireless Communications, Data Science and Analytics, 3G/4G/5G RF design, optimization, rollout, KPI analysis, and quality assurance. Proficient in 3GPP standards, RAN architecture, signaling, and operations. Adept at deriving insights from telecom data.
 
-RF tools: Atoll, ArcGIS, QGIS, Wavescape, IBMS, Xcal, Xcap, TEMS.
-
-Data Science & Analytics tools: SQL, R, Python, SAS, Tableau, Power BI.
-
-Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ggplot2, ElementTree, TensorFlow.
-
 ---
 ## Education
 
