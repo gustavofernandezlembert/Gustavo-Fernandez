@@ -3,7 +3,7 @@
 ---
 ## Summary
 
-Telecom Engineer with a robust specialization in RF design, optimization, rollout, and KPI analysis, with a primary focus on wireless communication technologies such as 3G, 4G, and 5G. My expertise encompasses a thorough understanding of 3GPP standards, in-depth knowledge of RAN (Radio Access Network) architecture, mastery of signaling protocols, and proficiency in network operations. Furthermore, I possess advanced proficiency in Data Science and Analytics, equipping me with the capability to derive actionable insights from a wide spectrum of data sources. My adeptness in software development serves as a valuable complement to my problem-solving acumen within the wireless communication domain, enabling me to drive innovation and deliver effective solutions
+Telecom Engineer with a specialization in Wireless Communication and Data Science, focusing on RF design, optimization, rollout, and KPI analysis. My expertise lies in 3G, 4G, and 5G technologies, supported by a deep understanding of 3GPP standards, RAN architecture, signaling protocols, and network operations. I possess advanced proficiency in Data Science and Analytics, allowing me to extract actionable insights from diverse data sources. Additionally, my software development skills enhance my problem-solving capabilities in the wireless communication domain, driving innovation and delivering effective solutions.
 
 ---
 ## Education
