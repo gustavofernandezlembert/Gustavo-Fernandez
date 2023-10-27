@@ -3,7 +3,11 @@
 ---
 ## Summary
 
-Telecom Engineer with a specialization in Wireless Communication and Data Science, focusing on RF design, optimization, rollout, and KPI analysis. My expertise lies in 3G, 4G, and 5G technologies, supported by a deep understanding of 3GPP standards, RAN architecture, signaling protocols, and network operations. I possess advanced proficiency in Data Science and Analytics, allowing me to extract actionable insights from diverse data sources. Additionally, my software development skills enhance my problem-solving capabilities in the wireless communication domain, driving innovation and delivering effective solutions.
+Telecom Engineer with expertise in Wireless Communications, Data Science and Analytics, 3G/4G/5G RF design, optimization, rollout, KPI analysis, and quality assurance. Proficient in 3GPP standards, RAN architecture, signaling, and operations. Adept at deriving insights from telecom data.
+
+RF tools: Atoll, ArcGIS, QGIS, Wavescape, IBMS, Xcal, Xcap, TEMS.
+Data Science & Analytics tools: SQL, R, Python, SAS, Tableau, Power BI.
+Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ggplot2, ElementTree, TensorFlow.
 
 ---
 ## Education
