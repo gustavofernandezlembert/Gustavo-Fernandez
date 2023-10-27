@@ -50,8 +50,10 @@ Transforming Google Earth Placemarks into HTML Tables.
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 SQL querying demo using a fictional insurance database.
 
+### [Logistic Regression - Heart Dataset](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
+Logistic Regression for Coronary Heart Disease Prediction.
+
 ### [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 Simplifying Maximum Likelihood Estimation with R.
 
-### [Logistic Regression - Heart Dataset](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
-Logistic Regression for Coronary Heart Disease Prediction.
+
