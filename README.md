@@ -45,7 +45,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 ## Projects
 
 ### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
-Transforming Google Earth Placemarks into HTML Tables.
+Designed and implemented a Python application to convert KML files to HTML format, streamlining the data visualization process for geospatial data.
 
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 SQL querying demo using a fictional insurance database.
