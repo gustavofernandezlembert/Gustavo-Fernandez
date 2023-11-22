@@ -47,6 +47,9 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 ### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
 Designed and implemented a Python application to convert KML files to HTML format, streamlining the data visualization process for geospatial data.
 
+### [Web-Based Link Budget Application](https://g-nr-repeater-link-budget.wn.r.appspot.com/)
+Developed a Python-based web application to calculate link budgets for telecom repeaters, enhancing the accuracy and efficiency of network planning and optimization processes.
+
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 SQL querying demo using a fictional insurance database.
 
