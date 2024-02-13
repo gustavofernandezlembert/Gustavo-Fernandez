@@ -15,8 +15,8 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 ## Experience
 
-
-- **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - Current)  
+- **Wireless System Engineer**, NextEra Robotics (January 2024 - Current)
+- **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - December 2023)  
 - **RF Engineer II**, Verizon Wireless (June 2021 – December 2022)
 - **Research Assistant**, The University of Texas Rio Grande Valley (June 2019 - May 2021)
 - **RF Engineer**, Manpower (Aug 2016 - Jul 2018)
