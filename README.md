@@ -44,7 +44,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 ## Projects
 
-### [Network Monitor](http://url/to/img.png)
+### [Network Monitor]([http://url/to/img.png](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Screen%20Shot%202024-05-03%20at%203.21.17%20PM.jpg))
 Developed a comprehensive network monitor dashboard and a suite of real-time engineering and networking tools to collect, analyze and report on the state and performance of thousands of embedded Linux radio base stations and customer devices.
 
 ### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
