@@ -36,7 +36,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
   
 - **Machine Learning for Wireless Network Throughput Prediction.** Gustavo A Fernandez, Advances in Machine Learning & Artificial Intelligence, Jan. 2024. (ISSN: 2769-545X)
 
-- **A comparison of statistical methods for modeling count data with an application to hospital length of stay.** Co-authored with Dr. Kristina Vatcheva, Published in BMC Medical Research Methodology, Aug. 2022.
+- **A comparison of statistical methods for modeling count data with an application to hospital length of stay.** Co-authored with Dr. Kristina Vatcheva, Published in BMC Medical Research Methodology, Aug. 2022. (DOI: 10.1186/s12874-022-01685-8)
 
 
   
