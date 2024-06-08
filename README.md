@@ -56,11 +56,7 @@ Developed a Python-based web application to calculate link budgets for telecom r
 ### [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
 This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore, provided by Ookla. The dataset Includes 172 features and 163,053 observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
-### [Logistic Regression - Heart Dataset](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
-Logistic Regression for Coronary Heart Disease Prediction.
-
 ### [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 Simplifying Maximum Likelihood Estimation with R.
 
-### [Demo Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
-SQL querying demo using a fictional database.
+
