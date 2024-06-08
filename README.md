@@ -53,6 +53,8 @@ Designed and implemented a Python application to convert KML files to HTML forma
 ### [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
 Developed a Python-based web application to calculate link budgets for telecom repeaters, enhancing the accuracy and efficiency of network planning and optimization processes.
 
+### [Analyzing the experience and Device Preferences of Singapore Android users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
+
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 SQL querying demo using a fictional insurance database.
 
