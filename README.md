@@ -1,19 +1,19 @@
 
 
 ---
-## Summary
+# Summary
 
 Telecom Engineer with expertise in Wireless Communications, Data Science and Analytics, 3G/4G/5G RF design, optimization, rollout, KPI analysis, and quality assurance. Proficient in 3GPP standards, RAN architecture, signaling, and operations. Adept at deriving insights from telecom data.
 
 ---
-## Education
+# Education
 
 - **MS Applied Statistics and Data Science**, The University of Texas Rio Grande Valley, May 2021
 - **BS Electrical Engineering**, Santo Domingo Institute of Technology, August 2011
 
 ---
 
-## Experience
+# Experience
 
 - **Wireless System Engineer**, NextEra Robotics (January 2024 - Current)
 - **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - December 2023)  
@@ -30,7 +30,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 ---
 
 
-## Publications
+# Publications
 
 ### [A Web-Based Link Budget Tool for 5G mmWave Systems with Repeater Integration](https://ieeexplore.ieee.org/abstract/document/10520341)
 Gustavo A Fernandez, IEEE Future Networks World Forum, Nov. 2023.
@@ -45,7 +45,7 @@ Co-authored with Dr. Kristina Vatcheva, Published in BMC Medical Research Method
   
 ---
 
-## Projects
+# Projects
 
 ### [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Tableau_Dashboard.jpg)
 Developed a comprehensive network monitor dashboard and a suite of real-time engineering and networking tools to collect, analyze and report on the state and performance of hundreds of embedded Linux radio base stations, robots and other devices.
