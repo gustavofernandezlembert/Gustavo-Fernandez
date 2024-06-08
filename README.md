@@ -49,7 +49,7 @@ Developed a comprehensive network monitor dashboard and a suite of real-time eng
 Developed a web application that converts KML files to an HTML format, streamlining the data visualization process for geospatial data.
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
-Developed a web application to calculate link budgets for 5G RF repeaters aiming to enhance accuracy and efficiency of RF network planning and optimization processes.
+Developed a web application to calculate link budgets for 5G RF repeaters aiming to enhance accuracy and efficiency of RF network planning and optimization process.
 
 - [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
 This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
