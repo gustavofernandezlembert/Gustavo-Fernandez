@@ -32,7 +32,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 ## Publications
 
-- **[A Web-Based Link Budget Tool for 5G mmWave Systems with Repeater Integration](https://ieeexplore.ieee.org/abstract/document/10520341).** Gustavo A Fernandez, IEEE Future Networks World Forum, Nov. 2023 (https://ieeexplore.ieee.org/abstract/document/10520341)
+- **[A Web-Based Link Budget Tool for 5G mmWave Systems with Repeater Integration](https://ieeexplore.ieee.org/abstract/document/10520341).** Gustavo A Fernandez, IEEE Future Networks World Forum, Nov. 2023.
   
 - **[Machine Learning for Wireless Network Throughput Prediction](https://www.opastpublishers.com/open-access-articles/machine-learning-for-wireless-network-throughput-prediction.pdf).** Gustavo A Fernandez, Advances in Machine Learning & Artificial Intelligence, Jan. 2024. 
 
