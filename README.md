@@ -47,19 +47,19 @@ Co-authored with Dr. Kristina Vatcheva, Published in BMC Medical Research Method
 
 ## Projects
 
-#### [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Tableau_Dashboard.jpg)
+### [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Tableau_Dashboard.jpg)
 Developed a comprehensive network monitor dashboard and a suite of real-time engineering and networking tools to collect, analyze and report on the state and performance of hundreds of embedded Linux radio base stations, robots and other devices.
 
-#### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
+### [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
 Developed a web application that converts KML files to an HTML format, streamlining the data visualization process for geospatial data.
 
-#### [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
+### [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
 Developed a web application to calculate link budgets for telecom repeaters aiming to enhance accuracy and efficiency of network planning and optimization processes.
 
-#### [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
+### [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
 This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
-#### [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
+### [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 Guide for Maximum Likelihood Estimation with R.
 
 
