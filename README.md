@@ -53,7 +53,8 @@ Designed and implemented a Python application to convert KML files to HTML forma
 ### [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
 Developed a Python-based web application to calculate link budgets for telecom repeaters, enhancing the accuracy and efficiency of network planning and optimization processes.
 
-### [Analyzing the experience and Device Preferences of Singapore Android users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
+### [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Gustavo%20Presentation.pptx)
+This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore, provided by Ookla. The data includes various performance metrics such as download speeds, upload speeds, and latency for different regions, network operators, and device models. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
 ### [Insurance Database](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 SQL querying demo using a fictional insurance database.
