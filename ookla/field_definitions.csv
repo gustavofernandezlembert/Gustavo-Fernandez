@@ -1,0 +1,173 @@
+Field Name in Extract,Definition,Data Type
+test_id,A unique ID for every speedtest performed based on the platform.,number
+android_device_id,"Each individual device is assigned a unique ID, which is tied to all the tests taken on the device.",number
+android_fingerprint,"The device model and OS version of the user's device. Not standardized across all manufacturers. Rather than Android fingerprint, rely on the device and hardware fields for accurate information about the device hardware.",text
+test_date,Date and time of the test in Pacific time zone (GMT -8).,datetime
+client_ip_address,This is the IP address from which the request to Ookla's reporting API was generated. The last octet of the user's external IP address is masked for addresses that are not on your network. Full IP addresses are available for your customers. Devices behind networks with carrier grade NAT may appear to share the same IP address.,text
+download_kbps,"The result of the download portion of the test, measured in kilobits per second.",number
+upload_kbps,"The result of the upload portion of the test, measured in kilobits per second.",number
+latency,"The result of the latency portion of the test, measured in milliseconds.",number
+server_name,The name of the server used for the test. This is typically the city where the server is located.,text
+server_country,The country where the server used for the test is located.,text
+server_country_code,The two letter country code (ISO 3166-1 alpha-2) of where the test server is located.,text
+server_latitude,The latitude of the server used for the test.,number
+server_longitude,The longitude of the server used for the test.,number
+server_sponsor_name,The name of the test server sponsor. Combining server name and server sponsor will create a unique name for each server.,text
+client_country,The country where the device is located.,text
+client_country_code,The two letter country code (ISO 3166-1 alpha-2) of where the device was located.,text
+client_region_name,"The region within a country where the test was conducted. How each country is divided into regions varies country to country, but this is typically the top level region as described in ISO-3166-2. If this field is labeled unknown and the field location type equals 2, we were unable to confidently assign a region to the record and the location is only accurate to the country level.",text
+client_region_code,The ISO-3166-2 region code of where the test was conducted.,text
+client_city,"The city where the test was conducted. If this field is labeled unknown and the location type field equals 2, we were unable to confidently assign a city to the record and is only accurate to the region level.",text
+client_latitude,"The latitude of the device conducting the test. If location type equals 2, this value is approximate.",number
+client_longitude,"The longitude of the device conducting the test. If location type equals 2, this value is approximate.",number
+miles_between,Distance (in miles) between user and location of server.,number
+isp_name,"The name of the device's ISP, derived from the IP address in the client_ip_address field.",text
+is_isp,"Indicates whether or not a user's connection is an ISP. 1 = true, 0 = false. 0 generally indicates government, university, or corporate connections.",number
+network_operator_name,"The name of the network operator, as displayed by the device. This field is generally accurate, but is not reliable. Custom versions of Android, including carrier specific versions, may modify this string, and carriers have used different spellings and brandings on their network names. 2020-05-28: When Ookla can more accurately identify the active network operator via Android CellIdentity APIs, it will overwrite the network_operator_name based on Ookla-maintained MCCMNC-to-network relations.",text
+mcc,Mobile Country Code (MCC) is a three digit code specific to the country where the network operator is located. A list of code and countries can be found here.,number
+mnc,"Mobile Network Code (MNC). A three digit identifier specific to a network operator within a given country. When combined with the Mobile Country Code, each mobile network can be uniquely identified. A fairly comprehensive list of Mobile Network Codes can be foundhere, but each country regulates their MNCs individually, so codes may appear or change without any notice.",number
+pre_connection_type,"A number representing the device's connection type as detected before the test begins. Please see the connection type table for an explanation of each type. Connection type as detected before the test starts: 0 = Unknown,1 = Cell, 2 = Wi-Fi, 3 = GPRS, 4 = EDGE, 5 = UMTS, 6 = CDMA, 7 = EVDO0, 8 = EVDOA, 9 = OnexRTT, 10 = HSDPA, 11 = HSPA, 12 = IDEN, 13 = EHRPD, 14 = EVDOB, 15 = LTE, 16 = HSUPA, 17 = HSPAP, 18 = GSM, 19 = TDSCDMA, 20 = IWLAN, 21 = LTE-CA, 22 = Ethernet, 23 = Bluetooth, 24 = NR",number
+post_connection_type,"A number representing the device's connection type as detected at the end of the test. Please see the connection type table for an explanation of each type. Connection type as detected at the end of the test: 0 = Unknown,1 = Cell, 2 = Wi-Fi, 3 = GPRS, 4 = EDGE, 5 = UMTS, 6 = CDMA, 7 = EVDO0, 8 = EVDOA, 9 = OnexRTT, 10 = HSDPA, 11 = HSPA, 12 = IDEN, 13 = EHRPD, 14 = EVDOB, 15 = LTE, 16 = HSUPA, 17 = HSPAP, 18 = GSM, 19 = TDSCDMA, 20 = IWLAN, 21 = LTE-CA, 22 = Ethernet, 23 = Bluetooth, 24 = NR",number
+brand,The consumer facing brand of the device.,text
+device,The codename assigned to the device by the manufacturer.,text
+hardware,"The device hardware name, as reported by the Android kernel.",text
+build_id,"The Android build ID reflects the version of Android installed on the device. The build ID typically follows a standard convention of AAA##A, but some device manufacturers chose to implement their own convention. More information about Android build IDs can be found at https://source.android.com/source/build-numbers.html.",text
+manufacturer,The device manufacturer.,text
+model,User device's model.,text
+product,"The internal product code of the device. This is typically the same as the device codename, but occassionally differs.",text
+cdma_cell_id,User's CDMA cell ID; also the base_station_id.,number
+gsm_cell_id,User's GSM cell ID; also the cid.,number
+location_type,"The method used to determine the device's location. Whenever possible, the speedtest.net mobile application uses the device's location services to determine an accurate latitude and longitude of the device. However, in an effort to maintain a quick and easy user experience, if the device's location services are either unavailable or unable to return an accurate location within a few seconds, we fall back to using third party Geo-IP location services. 1 = GPS / device location services, 2 = Geo-IP.",number
+gmaps_formatted_address,"Full location name including city, county, region, and country, if available.",text
+gmaps_name,Unabbreviated location name; typically the city where the test is taken.,text
+gmaps_type,Type of locality where test is taken. This is typically an incorporated city or town political entity.,text
+gmaps_country,Country where test is taken.,text
+gmaps_country_code,Country code where test is taken.,text
+gmaps_region,"Region name where test is taken. This is the first-order civil entity in a country level. Depending on the country, these are states, provinces, or territories, etc.",text
+gmaps_subregion,"Region name where test is taken. This is the second-order civil entity in a country level. Depending on the country, these are county-level names. Not all countries display this information.",text
+gmaps_subsubregion,"Region name where test is taken. This is the third-order civil entity in a country level. Depending on the country, these are the level under counties. Not all countries display this information.",text
+gmaps_postal_code,Postal code for the test location. The postal code is that same as what is used to address mail within the country.,text
+phone_type_a,"The type of phone used. 0 = None, 1 = GSM, 2 = CDMA, 3 = SIP",number
+device_software_version_a,The software version found on the device.,text
+sim_network_operator_name_a,"Similar to the network_operator_name field, this is the network operator name associated with the sim card installed in the device, rather than the current network the device is registered on. Some devices may report ""null"" if the network associated with the sim is the same as the current registered network. For dual SIM devices, this will show as the sim that is being used to take the test, not necessarily the network that the test was taken over.",text
+sim_network_operator_code_a,"Similar to the network_operator field, this is the network operator associated with the sim card installed in the device, rather than the current network the device is registered on. Some devices may report null if the network associated with the sim is the same as the current registered network.",text
+app_version_a,User's Speedtest app version on Android.,text
+start_cell_id_a,The starting ID of either the GSM or CDMA ID. It is useful to compare this to cdma_cell_id or gsm_cell_id to determine if the cell id changed during testing.,number
+wifi_bssid_a,The media access control address (MAC) address of the wifi Chipset running on the wireless access point to which the device is connected.,text
+wifi_secure_a,A flag indicating whether or not security is enabled on the wifi network.  0 = No and 1 = Yes.,number
+wifi_rssi_a,Wifi RSSI signal strength.,number
+alt_sim_network_operator_name_a,Mobile carrier name from alternate SIM card when using a dual SIM device.,text
+alt_sim_network_operator_code_a,The mobile country code (MCC) and mobile network code (MNC) from alternate SIM card when using a dual SIM device.,text
+test_method_a,"The communication protocol used by the test. Whenever possible, the test makes a direct TCP connection with the testing server, which allows for greater testing accuracy, especially at higher speeds. In instances where the device is unable to establish a TCP connection with the test server on the appropriate port, the test falls back to using basic HTTP file transfers to determine the device's bandwidth. 1 = HTTP, 2 = TCP, 5 = HTTP-IPV6, 6 = TCP-IPV6",number
+gsm_lac_a,GSM Location Area Code from the device.,number
+alt_sim_operator_alpha_long_a,The long carrier name from alternate SIM card when using a dual SIM device.,text
+timezone_name_a,Name of user's timezone at location of test.,text
+timezone_offset_seconds_a,"User's timezone offset relative to GMT, in seconds.",number
+data_connection_type_a,"This connection type is recorded upon test completion and can be used to match up the starting connection type for consistency. This is a legacy Android API, and post_connection_type should be used instead. 0=Mobile, 1=WiFi, 2=Mobile MMS, 3=Mobile Supl, 4=Mobile Dun, 5=Mobile Hipri, 6=WiMax, 7=Bluetooth, 8=Unknown, 9=Ethernet",number
+android_api_a,Android OS API version of device.,number
+architecture_a,"Architecture of the device's CPU: x86, arm, etc.",text
+signal_cell_type_a,"This field reflects the network connection type associated with the signal and cell information provided by the device. The signal cell type may differ from the connection type in cases where voice communications occur on a different network than data transmission. 1 = GSM, 2 = CDMA, 3 = WCDMA, 4 = LTE",number
+pci_a,LTE Physical Cell Identity. An integer to identify the physical LTE cell the user is connected to. The value is unique to the physical cell antennae rather than a specific cell tower. Valid values are 0 to 503. A value of 65535 or null indicates that the device was unable to return a PCI value.,number
+tac_a,LTE Tracking Area Code. A 16 bit integer used to facilitate handoff of a device between cells. The Tracking Area Identity can be determined by prepending the MCC and MNC to the Tracking Area Code.,number
+base_station_id_a,"CDMA Base Station ID. Valid values range from 0 to 65535, with 65535 representing unknown.",number
+station_latitude_a,CDMA Base Station Latitude as specified in 3GPP2 C.S0005-A v6.0.,number
+station_longitude_a,CDMA Base Station Longitude as specified in 3GPP2 C.S0005-A v6.0.,number
+network_id_a,"CDMA Network Identification Number. This Network ID differs from any network operator identification numbers and is only unique within each system ID for a given operator. Valid values range from 0 to 65535, with 65535 representing unknown.",number
+system_id_a,"CDMA System ID. This ID identifies large subsets of an operator's wireless network. IDs are only unique per operator. Valid values range from 0 to 65535, with 65535 representing unknown.",number
+cid_a,"GSM, WCDMA, LTE. An ID for a cell within a given network. Valid GSM IDs range from 0 to 65535 while WCDMA and LTE allow integers up to 2147483647. In all three connection types, the maximum valid value represents unknown. In UMTS networks, this number includes the RNC number. The inclusion of the RNC number means some work will likely need to be done to allow this field to join with your tower data.",number
+lac_a,"GSM, WCDMA. A 16-bit integer representing a cell's location within a given operator's system. 65535 represents unknown.",number
+psc_a,"GSM, WCDMA. Primary Scrambling Code. Valid values range from 0 to 512 with 65535 representing unknown.",number
+asu_level_a,"Arbitrary Strength Unit. This value is proportional to the device's signal strength, but the calculation for determining the actual signal strength varies by connection type. The valid value range for GSM and WCDMA is 0 to 31 while CDMA and LTE have a valid range of 0 to 97, with 99 representing unknown across all connection types. For more information on ASU and calculating true signal strength, please see 3GPP RSRP document GPP 27.007 (Ver 10.3.0) Sec 8.69.",number
+dbm_a,Cell signal strength as dBm. A small percentage of devices often report positive values for this. Please use absolute values for this field so that those devices are normalized with the rest.,number
+level_a,"A simplified signal strength measurement, represented as 0 to 4. This is generalized from each carrier's individual scales. Roughly, these are how the signal strengths translate:  0 = none, 1 = poor, 2 = moderate, 3 = good, 4 = great",number
+timing_advance_a,LTE Timing Advance measured in Ts. 2147483647 represents unknown.,number
+cdma_dbm_a,CDMA Signal strength value in dBm,number
+cdma_ecio_a,CDMA Ec/Io value in dB*10,number
+cdma_level_a,CDMA signal level 0 to 4,number
+evdo_dbm_a,EVDO signal strength value in dBm,number
+evdo_ecio_a,EVDO Ec/Io value in dB*10,number
+evdo_level_a,EVDO signal level 0 to 4,number
+evdo_snr_a,EVDO signal to noise ratio 0 to 8,number
+signal_string_a,"This is the raw string output from the device when all signal strength information is requested. While most information is already represented in the other columns, some devices will report additional information when the string method is called.",string
+jitter_a,The variance in latency over time which determines the stability of the internet connection.,number
+ploss_sent_a,"The number of packages sent to host server from device. To determine packet loss percentage, take the ploss_recv divided by ploss_sent. 100% means zero packet loss since 100% of the packets were sent and received.",number
+ploss_recv_a,"The number of packages received by the host server from device. To determine packet loss percentage, take the ploss_recv divided by ploss_sent. 100% means zero packet loss since 100% of the packets were sent and received.",number
+valid_imei_a,"This value designates the device's IMEI as a valid number.  0 = False, 1 = True",number
+app_store_a,"App store that app was downloaded from, such as the Amazon android app store, Google Play, Yandex, Samsung app store, etc.",text
+is_rooted_a,"This indicates that the device allows running applications with root level permissions and may be running software that could cause the device to report false information. 0 = False, 1 = True",number
+tr_ip_0_a,This is the IP address of the first hop of traceroute during a test.,text
+tr_latency_a,The time taken for the packet to be received after the first hop in the traceroute.,number
+tr_ip_1_a,This is the IP address of the second hop of traceroute during a test.,text
+tr_latency_1_a,The time taken for the packet to be received after the second hop in the traceroute.,number
+wifi_speed_mbps_a,Theoretical maximum protocol speed between device and wifi router. This field is connected to wifi test results only.,number
+wifi_frequency_mhz_a,The frequency the wifi router is connecting with when test is taken. This field is connected to wifi test results only.,number
+location_accuracy_a,The accuracy of the location data collected from the device expressed in meters.,number
+uarfcn_a,The UTRA Absolute Radio Frequency Channel Number (UARFCN) is a unique number given to each radio channel within the frequency bands used by the UMTS UTRA. The UARFCN can be used to calculate the carrier frequency.,number
+arfcn_a,The Absolute Radio Frequency Channel Number (ARFCN) is a unique number given to each radio channel in GSM. The ARFCN can be used to calculate the exact frequency of the radio channel. Within the GSM900 band ARFCN 1 to 124 are used. In the GSM1800 band ARFCN 512 to 885 are used.,number
+bsic_a,The Base Station Identity Code (BSIC) is a code used in GSM to uniquely identify a base station. The code is needed because it is possible that mobile stations receive the broadcast channel of more than one base station on the same frequency.,number
+earfcn_a,"EARFCN stands for E-UTRA Absolute Radio Frequency Channel Number.In LTE, the carrier frequency in the uplink and downlink is designated by EARFCN, which ranges between 0-65535. EARFCN uniquely identify the LTE band and carrier frequency. ... EARFCN is independent of channel bandwidth.",number
+subscription_code_a,"Given that dual SIM devices are so common, we put in place a new approach to identify which SIM was used for the test with a very high level of confidence.  The code displayed indicates how the sim_network_operator_name_a was identified with high confidence or the reason it could not be identified with high confidence. If 1-6 is seen, then that is the SIM that was used during the test. If 7-10, then we cannot yet make a determination with high confidence because there is not enough information given during the test. 1 = True, Single subscription2 = True, Single subscription with default data3 = True, Single registered network matching SubscriptionManager4 = True, Single registered network matching TelephonyManager.getNetworkOperator5 = True, Single registered network of subtype matching the active network, matching SubscriptionManager6 = True, Single registered network of subtype matching the active network, matching TelephonyManager.getNetworkOperator 7 = False, No active network available8 = False, Unknown connection type9 = False, Connection type is not mobile10 = False, Phone is not roaming and there is not enough info to determine subscription NULL = Unknown; could be an Android API older than 22 or a version of the Speedtest application that is older than 3.2.32",number
+test_carrier_a,"The carrier sim used for the test. Tied to ""subscription_code_a"".",text
+test_mcc_a,"The mcc code associated with the SIM card used for the test. Tied to ""subscription_code_a"".",number
+test_mnc_a,"The mnc code associated with the SIM card used for the test. Tied to ""subscription_code_a"".",number
+server_selection_a,"Whether the server used in the Speedtest was selected automatically or manually by the user  ""Auto"" indicates that the server was selected automatically ""User"" indicates that the server was selected manually by the user",text
+rsrp_a,"Reference Signal Received Power.  LTE metric displaying the received power of the reference LTE signal, similar to the old school ""signal strength"".  Range: -40 to -140, where -140 is the worst and -44 is the highest the device will report",number
+rsrq_a,"Reference Signal Received Quality The received quality of the LTE reference signal. Range: -19.5 to -3, where -3 is best",number
+rssnr_a,"Reference Signal Signal-to-Noise Ratio Perhaps the most important KPI, but it's rarely properly reported in Android OS. It's the ratio between the noise and signal of the LTE data transmission. Range is -30 to +30, where +30 is best",number
+cqi_a,"CQI stands for Channel Quality Indicator. As the name implies, it is an indicator carrying the information on how good/bad the communication channel quality is.  In LTE, there are 15 different CQI values randing from 1 to 15 and mapping between CQI and modulcation scheme. In HSDPA, the CQI value ranges from 0 to 30. 30 indicates the best channel quality and 0,1 indicates the poorest channel quality.",number
+client_ipv6_address,"Speedtest user's IPV6 address. We mask IP addresses for end users privacy, but show enough to allow clients to see which provider is offering the user's internet service.  Please note that this address may not be the connection that the Speedtest was taken over (unless there is no IPV4 address populated).",text
+location_age_a,"Age that the location was recorded, in milliseconds NULL means that the location age wasn't captured",number
+ookla_device_name_a,Mobile device common name as determined by Ookla based on our research on how the device is marketed,text
+ookla_carrier_name_a,Mobile operator name as determined by Ookla based on our research on how the operator is marketed,text
+download_kb_a,"The bytes used during a test for the download portion, in kilobytes",number
+upload_kb_a,"The bytes used during a test for the upload portion, in kilobytes",number
+is_airplane_mode_a,"Indicates whether the device was in airplane mode when data was reported.  0 = not in airplane mode, 1 = airplane mode",number
+client_latitude_start,"The latitude of the device conducting the test at the beginning of the test. If location type equals 2, this value is approximate.",number
+client_longitude_start,"The longitude of the device conducting the test at the beginning of the test. If location type equals 2, this value is approximate.",number
+location_type_start,"The method used to determine the device's location at the start of the test. Whenever possible, the speedtest.net mobile application uses the device's location services to determine an accurate latitude and longitude of the device. However, in an effort to maintain a quick and easy user experience, if the device's location services are either unavailable or unable to return an accurate location within a few seconds, we fall back to using third party Geo-IP location services. 1 = GPS / device location services, 2 = Geo-IP.",number
+download_thread_count_a,"The maximum number of download threads used during adaptive testing, maximum of 22 threads",number
+download_test_duration_a,"The length, in milliseconds, of the speedtest based on adaptive testing, maximum test length being 15 seconds",number
+download_stop_reason_a,Indicates whether the speedtest was able to complete before the maximum test duration.  0 = Early stop did not occur. Full test duration or byte limit was hit1 = Early stop occurred,number
+radio_a,The version string for the radio firmware.,text
+device_ram_a,maximum system memory in megabytes available to UE kernel,number
+device_storage_a,"maximum capacity in megabytes of UE file system, excluding any secondary storage such as SD cards",number
+km_between,distance (in kilometers) between user and location of server.,number
+altitude_a,"the altitude if available, in meters above the WGS 84 reference ellipsoid. If this location does not have an altitude, 0 is returned.",number
+tr_hops_a,the number of hops taken on the traceroute from the client to server.,number
+loc_timezone_name_a,local timezone name derived from reverse geocoding (location),text
+loc_timezone_offset_seconds_a,device local timezone offset in seconds from GMT derived from reverse geocoding (location),number
+cellbandwidth_a,Cell bandwidth in kHz,number
+vertical_accuracy_a,"Estimated vertical (altitude) accuracy of this location, in meters",number
+isp_common_name_a,Common (marketing) name of the ISP,text
+service_state_a,"Indicates the phone's service state: 0 = STATE_IN_SERVICE. Normal operation condition, the phone is registered with an operator either in home network or in roaming.1 = STATE_OUT_OF_SERVICE. Phone is not registered with any operator, the phone can be currently searching a new operator to register to, or not searching to registration at all, or registration is denied, or radio signal is not available.)2 = STATE_EMERGENCY_ONLY. The phone is registered and locked. Only emergency numbers are allowed.3 = STATE_POWER_OFF. Radio of telephony is explicitly powered off.",number
+sim_state_a,"indicates the state of the default SIM card (or active SIM for API 26 and above): 0 = SIM_STATE_UNKNOWN. Unknown. Signifies that the SIM is in transition between states. For example, when the user inputs the SIM pin under PIN_REQUIRED state, a query for sim status returns this state before turning to SIM_STATE_READY.1 = SIM_STATE_ABSENT. No SIM card is available in the device.2 = SIM_STATE_PIN_REQUIRED. Locked: requires the user's SIM PIN to unlock.3 = SIM_STATE_PUK_REQUIRED. Locked: requires the user's SIM PUK to unlock.4 = SIM_STATE_NETWORK_LOCKED. Locked: requires a network PIN to unlock.5 = SIM_STATE_READY. Ready.6 = SIM_STATE_NOT_READY. SIM Card is NOT READY.7 = SIM_STATE_PERM_DISABLED. SIM Card Error, permanently disabled.8 = SIM_STATE_CARD_IO_ERROR. SIM Card Error, present but faulty.9 = SIM_STATE_CARD_RESTRICTED. SIM Card restricted, present but not usable due to carrier restrictions.0 = STATE_IN_SERVICE. Normal operation condition, the phone is registered with an operator either in home network or in roaming.1 = STATE_OUT_OF_SERVICE. Phone is not registered with any operator, the phone can be currently searching a new operator to register to, or not searching to registration at all, or registration is denied, or radio signal is not available.)2 = STATE_EMERGENCY_ONLY. The phone is registered and locked. Only emergency numbers are allowed.3 = STATE_POWER_OFF. Radio of telephony is explicitly powered off.",number
+ss_rsrp_a,Synchronization Signal Reference Signal Received Power (SS-RSRP) is defined as the linear average over the power contributions (in [W]) of the resource elements that carry secondary synchronization signals. Reference: 3GPP TS 38.215.,number
+ss_rsrq_a,"Synchronization Signal Reference Signal Received Quality (SS-RSRQ) is defined as the ratio of N×SS-RSRP / NR carrier RSSI, where N is the number of resource blocks in the NR carrier RSSI measurement bandwidth. Reference: 3GPP TS 38.215.",number
+ss_sinr_a,"SS signal-to-noise and interference ratio (SS-SINR), is defined as the linear average over the power contribution (in [W]) of the resource elements carrying secondary synchronisation signals divided by the linear average of the noise and interference power contribution (in [W]). Reference: 3GPP TS 38.215.",number
+csi_rsrp_a,"CSI Reference Signal Received Power (CSI-RSRP), is defined as the linear average over the power contributions (in [W]) of the resource elements of the antenna port(s) that carry CSI reference signals configured for RSRP measurements within the considered measurement frequency bandwidth in the configured CSI-RS occasions. Reference: 3GPP TS 38.215.",number
+csi_rsrq_a,"CSI Reference Signal Received Quality (CSI-RSRQ) is defined as the ratio of N×CSI-RSRP to CSI-RSSI, where N is the number of resource blocks in the CSI-RSSI measurement bandwidth. Reference: 3GPP TS 38.215.",number
+csi_sinr_a,"CSI signal-to-noise and interference ratio (CSI-SINR), is defined as the linear average over the power contribution (in [W]) of the resource elements carrying CSI reference signals divided by the linear average of the noise and interference power contribution (in [W]). Reference: 3GPP TS 38.215.",number
+nr_level_a,"An abstract level value for the overall signal quality (NR). 0 = none or unknown, 1 = poor, 2 = moderate, 3 = good, 4 = great",number
+nr_asu_a,RSRP in ASU (NR). Asu is calculated based on 3GPP RSRP. Refer to 3GPP 27.007 (Ver 10.3.0) Sec 8.69.,number
+nr_arfcn_a,New Radio Absolute Radio Frequency Channel Number. Reference: 3GPP TS 38.101-1 section 5.4.2.1 NR-ARFCN and channel raster. Reference: 3GPP TS 38.101-2 section 5.4.2.1 NR-ARFCN and channel raster.,number
+nci_a,New Radio Cell Identity.,number
+nr_pci_a,New Radio Physical Cell ID.,number
+nr_tac_a,New Radio Tracking Area Code.,number
+nr_mcc_a,Mobile Country Code of New Radio cell.,text
+nr_mnc_a,Mobile Network Code of New Radio cell.,text
+nr_state_a,New Radio state of the mobile data network. Returns one of the following: 1 = RESTRICTED. The device is camped on an LTE cell that supports E-UTRA-NR Dual Connectivity(EN-DC) but either the use of dual connectivity with NR(DCNR) is restricted or NR is not supported by the selected PLMN.2 = NOT_RESTRICTED. The device is camped on an LTE cell that supports E-UTRA-NR Dual Connectivity(EN-DC) and both the use of dual connectivity with NR(DCNR) is not restricted and NR is supported by the selected PLMN.3 = CONNECTED. The device is camped on an LTE cell that supports E-UTRA-NR Dual Connectivity(EN-DC) and also connected to at least one 5G cell as a secondary serving cell.0 = NONE. The device isn't camped on an LTE cell or the LTE cell doesn't support E-UTRA-NR Dual Connectivity(EN-DC).,number
+nr_frequency_range_a,The frequency range of 5G NR. 0 = FREQUENCY_RANGE_UNKNOWN. Indicates frequency range is unknown.1 = FREQUENCY_RANGE_LOW. Indicates the frequency range is below 1GHz.2 = FREQUENCY_RANGE_MID. Indicates the frequency range is between 1GHz to 3GHz.3 = FREQUENCY_RANGE_HIGH. Indicates the frequency range is between 3GHz and 6GHz.4 = FREQUENCY_RANGE_MMWAVE. Indicates the frequency range is above 6GHz.,number
+is_nr_available_a,"""True"" if NR is supported by the selected PLMN. Otherwise, ""False"". Reference: 3GPP TS 36.331 v15.2.2 section 6.3.1 PLMN-InfoList-r15.",text
+is_nr_telephony_sourced_a,"""True"" if any of the following fields were sourced from Android's TelephonyManager rather than CellInfoNr: ss_rsrp, ss_rsrq, ss_sinr, csi_rsrp, csi_rsrq, csi_sinr, nr_level, nr_arfcn, nci, nr_pci, nr_tac, nr_mcc, nr_mnc Otherwise, ""False"".",text
+is_using_carrier_aggregation_a,"""True"" if carrier aggregation is in use.",text
+net_speed_id_a,"User ISP/connection type (estimated). 0 = Unknown, 1 = Dialup, 2 = Cable/DSL, 3 = Corporate and 4=Cellular. Results with a net_speed_id of 4 are excluded from all Fixed aggregates except for ""Mobile Broadband"".",number
+device_tac_a,The device's Type Allocation Code (TAC) from the active SIM slot.,text
+chipset_name_a,Ookla-maintained device chipset name.,text
+chipset_manufacturer_a,Ookla-maintained device chipset manufacturer name.,text
+cell_bandwidths_a,An array (JSON string containing an array of integers) of cell bandwidths (in kHz) for the current serving cells.,text
+upload_test_duration_a,"The length, in milliseconds, of the upload phase of the test.",number
+client_asn_a,The Autonomous System Number (ASN) associated with the client's IP address.,number
+server_asn_a,The Autonomous System Number (ASN) associated with the primary server's IP.,number
+wifi_mac_manufacturer_a,The manufacturer name associated with the MAC address of the WiFi access point (AP) serving the device based on IEEE Registration Authority assignments. This may not point to the marketed manufacturer name of the AP and may be associated with the manufacturer of another component such as the AP's radio.,text
+download_server_count_a,The number of servers utilized during the download portion of the test.,number
+wifi_is_5ghz,"""TRUE"" if the frequency of the wifi router is 5 Ghz when the test is taken. This field is connected to wifi test results only.",text
