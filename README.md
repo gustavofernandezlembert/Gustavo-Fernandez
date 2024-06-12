@@ -54,7 +54,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
   
   Link budget web application for 5G RF repeaters to aid in the RF network design and optimization process.
 
-- [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
+- [Analyzing the experience and Device Preferences of Singapore Android users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
   
   This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 
   150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and 
