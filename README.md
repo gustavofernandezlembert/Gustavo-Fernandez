@@ -48,7 +48,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
-  Web application that converts KML files to a table format, streamlining data collection and visualization for geospatial data.
+  Web application that converts KML files to a HTML table format, streamlining data collection and visualization for geospatial data.
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
   
