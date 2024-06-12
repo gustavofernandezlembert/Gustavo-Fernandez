@@ -56,12 +56,8 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 - [Analyzing the Experience and Device Preferences of Singapore Android Users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
   
-  This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 
-  150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and 
-  identify areas for improvement.
+  This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
-- [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
-  A guide for Maximum Likelihood Estimation with R.
 
 
