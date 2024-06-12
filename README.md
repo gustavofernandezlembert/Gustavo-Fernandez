@@ -47,15 +47,19 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
   Developed a network monitor dashboard to report on the state and performance of hundreds of Linux radio base stations.
 
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
+  
   Developed a web application that converts KML files to an HTML format, streamlining the data visualization process for geospatial data.
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
+  
   Developed a web application to calculate link budgets for 5G RF repeaters aiming to enhance accuracy and efficiency of RF network planning and optimization process.
 
 - [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
+  
   This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
 - [Maximum Likelihood Estimation - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
+  
 A guide for Maximum Likelihood Estimation with R.
 
 
