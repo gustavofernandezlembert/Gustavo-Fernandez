@@ -48,11 +48,11 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
-  Web application that converts KML files to an HTML format, streamlining the data visualization process for geospatial data.
+  Web application that converts KML files to an HTML format, streamlining data collection and visualization for geospatial data.
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
   
-  Link budget web application for 5G RF repeaters to enhance accuracy and efficiency of RF network design and optimization.
+  Link budget web application for 5G RF repeaters to aid in the RF network design and optimization process.
 
 - [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
   
