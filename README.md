@@ -52,7 +52,7 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
   
-  Developed a web application to calculate link budgets for 5G RF repeaters aiming to enhance accuracy and efficiency of RF network planning and optimization process.
+  Developed a web app to calculate link budgets for 5G RF repeaters to enhance accuracy and efficiency of RF network design and optimization.
 
 - [Analysis of Android Speed Test Data in Singapore](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
   
