@@ -60,4 +60,4 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 - [Maximum Likelihood Estimation in R - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
-- [Logistic Regression] (https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
+- [Logistic Regression](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
