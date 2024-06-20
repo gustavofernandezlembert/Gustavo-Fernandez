@@ -62,4 +62,4 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
 
 - [Logistic Regression in R](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
 
-- [Insurance Database SQL Queries Project]( )
+- [Insurance Database SQL Queries Project](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
