@@ -58,8 +58,12 @@ Telecom Engineer with expertise in Wireless Communications, Data Science and Ana
   
   This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
+- [Exploring Geographic Variations: SAS SQL Analysis of Metropolitan Status Impact](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-/tree/main)
+
 - [Maximum Likelihood Estimation in R - Normal Distribution](https://gustavofernandezlembert.github.io/Maximum-Likelihood/)
 
 - [Logistic Regression in R](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
 
 - [Insurance Database SQL Insights](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
+
+  
