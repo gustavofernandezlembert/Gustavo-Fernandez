@@ -5,7 +5,7 @@
 
 I am a Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi RF design, optimization, rollout, KPI analysis, network performance, and quality assurance. 
 
-My blend of telecom engineering and data science skills allows me derive actionable insights from telecom data to optimize network performance and deliver high-quality telecommunications services.
+My blend of telecom engineering and data science skills allows me derive actionable insights from telecom data to optimize network performance and deliver high-quality telecommunications services and wireless networking solutions.
 
 Proficiencies:
 
