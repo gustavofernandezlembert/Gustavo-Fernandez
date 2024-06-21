@@ -9,7 +9,7 @@ My blend of telecom engineering and data science skills allows me to derive acti
 
 Expertise:
 
-Wireless Communications: RF design, optimization, and rollout for 3G/4G/5G and Wi-Fi networks.
+Wireless Communications: RF design, optimization, and deployment for 3G/4G/5G and Wi-Fi networks.
 
 RF Tools: Atoll, iBwave, ArcGIS, QGIS, Xcal, Xcap, QXDM, Genex Probe/Assistant, Wavescape.
 
