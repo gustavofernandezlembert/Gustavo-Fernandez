@@ -69,7 +69,10 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
   Developed a Link budget web application for 5G RF repeaters to aid in the RF network design and optimization process.
 
 - [Analyzing the Experience and Device Preferences of Singapore Android Users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
-  
+
+ The project analyzes a dataset of Android speed tests from Singapore, provided by Ookla, with over 150 features and 150,000+ observations. It seeks to uncover 
+ insights for benchmarking network performance and pinpointing areas for enhancement.
+
   This project involves the analysis of a sample dataset from Android speed tests conducted in Singapore. The data was provided by Ookla and included more than 150 features and 150,000+ observations, encompassing a wide range of performance metrics. The analysis aims to uncover meaningful insights that can be used to benchmark network performance and identify areas for improvement.
 
 - [Exploring Geographic Variations: SAS SQL Analysis of Metropolitan Status Impact](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-/tree/main)
