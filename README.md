@@ -62,11 +62,11 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
-  Developed a Web application that converts KML files to a HTML table format, streamlining data collection and visualization for geospatial data.
+  Developed a Web application that converts KML files to into a table format, streamlining data collection and visualization for geospatial data.
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
   
-  Link budget web application for 5G RF repeaters to aid in the RF network design and optimization process.
+  Developed a Link budget web application for 5G RF repeaters to aid in the RF network design and optimization process.
 
 - [Analyzing the Experience and Device Preferences of Singapore Android Users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
   
