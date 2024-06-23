@@ -58,11 +58,12 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Tableau_Dashboard.jpg)
   
-  Network monitor dashboard to report on the state and performance of hundreds of Linux radio base stations.
+  Developed a network monitor dashboard to report on the state and performance of hundreds of linux radio base stations.
 
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
-  Web application that converts KML files to a HTML table format, streamlining data collection and visualization for geospatial data.
+  Developed a Web application that converts KML files to a HTML table format, streamlining data collection and visualization for geospatial data., enhancing site 
+  survey, planning and  infrastructure deployment.
 
 - [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
   
