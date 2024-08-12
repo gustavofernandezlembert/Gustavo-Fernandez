@@ -56,7 +56,7 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 ## Projects
 
-- [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Tableau_Dashboard.jpg)
+- [Network Monitor]
   
   Developed a network monitor dashboard to report on the state and performance of hundreds of linux radio base stations.
 
