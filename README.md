@@ -56,6 +56,10 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 ## Projects
 
+- [Network Monitor]()
+  Developed a comprehensive network monitor dashboard and a suite of real-time engineering and networking tools to collect, analyze and report on the state and performance of hundreds 
+  of Linux radio base stations.
+  
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
   Developed a Web application that converts KML files into a table format, streamlining data collection and visualization for geospatial data.
