@@ -57,6 +57,7 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 ## Projects
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Tableau_Dashboard.jpg)
+  
   Developed a comprehensive network monitor dashboard and a suite of real-time engineering and networking tools to collect, analyze and report on the state and performance of hundreds 
   of Linux radio base stations.
   
@@ -81,7 +82,8 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 - [Insurance Database SQL Insights](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 
-- [Radio Failover / Modem Integration](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Screen%20Shot%202024-12-26%20at%204.32.23%20PM.png)
+- [Radio Failover / Modem Integration](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/09d22eb7eb97bd0065c02bdb97e3e69e935ab91b/Screen%20Shot%202024-12-26%20at%204.32.23%20PM.png)
+- 
   Developed a seamless failover system and a Linux-based Bash script to integrate a cellular modem with a wireless mesh network to ensured continuous connectivity for robot operations by enabling the modem to serve as the primary or backup link, depending on the deployment, thus adding an additional source of connectivity and redundancy against mesh network failures.
 
 
