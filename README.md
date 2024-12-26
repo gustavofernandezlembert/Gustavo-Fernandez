@@ -82,6 +82,8 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 - [Insurance Database SQL Insights](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
 
 - [Radio Failover / Modem Integration](   )
-  Developed a seamless failover system and a Linux-based Bash script to integrate a cellular modem with a wireless mesh network, ensuring continuous connectivity and added redundancy to safeguard operations against mesh network failures.
+  Developed a seamless failover system and a Linux-based Bash script to integrate a cellular modem with a wireless mesh network to ensured continuous connectivity for robot operations by enabling the modem to serve as the primary or backup link, depending on the deployment, thus adding an additional source of connectivity and redundancy against mesh network failures.
+
+
 
   
