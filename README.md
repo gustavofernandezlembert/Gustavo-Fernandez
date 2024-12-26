@@ -87,7 +87,7 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 - [Analysis of Medicare Charges for DRG-689 in New York Hospitals](https://github.com/gustavofernandezlembert/Medicare-Hospital-Charges-/tree/main)
 
-  Performed a data analysis using SAS and SQL to uncover significant variability in hospital charges based on metropolitan status.
+  Performed a data analysis using SAS and SQL to uncover significant variability in hospital charges for Kidney and Urinary Tract Infections (DRG-689) based on metropolitan status.
 
 
 
