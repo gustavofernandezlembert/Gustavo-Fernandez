@@ -23,7 +23,7 @@ ml_client = MLClient(credential, subscription_id="hiddenforsafety", resource_gro
 print("Connected to workspace:", ml_client.workspace_name)
 ```
 
-#### Step 3: Save Configuration
+### Step 3: Save Configuration
 Save the configuration for reuse:
 
 ```python
