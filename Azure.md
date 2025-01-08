@@ -20,3 +20,19 @@ credential = DefaultAzureCredential()
 ml_client = MLClient(credential, subscription_id="hiddenforsafety", resource_group_name="ML_ResourceGroup", workspace_name="ML_Workspace")
 print("Connected to workspace:", ml_client.workspace_name)
 ```
+
+### Step 3: Create a Workspace 
+If a workspace doesn’t exist, create it:
+```python
+from azure.ai.ml.entities import Workspace
+
+workspace = Workspace(
+    name="MyNewWorkspace",
+    location="eastus",
+    resource_group="MyResourceGroup",
+    description="Workspace created using SDK v2",
+)
+
+ml_client.workspaces.begin_create_or_update(workspace)
+print("Workspace created:", workspace.name)
+```
