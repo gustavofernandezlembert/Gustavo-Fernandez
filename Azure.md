@@ -36,3 +36,11 @@ workspace = Workspace(
 ml_client.workspaces.begin_create_or_update(workspace)
 print("Workspace created:", workspace.name)
 ```
+
+#### Step 4: Save Configuration
+Save the configuration for reuse:
+
+```python
+with open("config.json", "w") as f:
+    f.write(workspace.serialize())
+```
