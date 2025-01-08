@@ -11,4 +11,4 @@ Install the required packages:
 pip install azure-ai-ml azure-identity
 ```
 ### Step 2: Authenticate
-Authenticate using #### DefaultAzureCredential ####
+Authenticate using DefaultAzureCredential
