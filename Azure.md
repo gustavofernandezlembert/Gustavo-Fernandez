@@ -27,9 +27,9 @@ If a workspace doesn’t exist, create it:
 from azure.ai.ml.entities import Workspace
 
 workspace = Workspace(
-    name="MyNewWorkspace",
+    name="ML_Workspace2",
     location="eastus",
-    resource_group="MyResourceGroup",
+    resource_group="ML_ResourceGroup2",
     description="Workspace created using SDK v2",
 )
 
