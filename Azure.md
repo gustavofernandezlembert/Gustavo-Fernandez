@@ -10,7 +10,8 @@ Install the required packages:
 ```bash
 pip install azure-ai-ml azure-identity
 ```
-### Step 2: Authenticate
+### Step 2: Authenticate & connect to Azure ML workspace
+
 Authenticate using DefaultAzureCredential
 
 ```python
