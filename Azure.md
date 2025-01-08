@@ -44,9 +44,10 @@ Save the configuration for reuse:
 with open("config.json", "w") as f:
     f.write(workspace.serialize())
 ```
-Learnings
-Azure ML SDK v2 is the latest and most feature-rich SDK for managing ML resources in Azure.
-MLClient provides a clean, object-oriented way to interact with Azure ML workspaces.
+#Learnings
+
+-Azure ML SDK v2 is the latest and most feature-rich SDK for managing ML resources in Azure.
+-MLClient provides a clean, object-oriented way to interact with Azure ML workspaces.
 
 References
-Azure Machine Learning Python SDK v2 Documentation
+-Azure Machine Learning Python SDK v2 Documentation
