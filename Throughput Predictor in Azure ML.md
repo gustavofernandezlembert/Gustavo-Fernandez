@@ -23,23 +23,7 @@ ml_client = MLClient(credential, subscription_id="hiddenforsafety", resource_gro
 print("Connected to workspace:", ml_client.workspace_name)
 ```
 
-### Step 3: Create a Workspace 
-If a workspace doesn’t exist, create it:
-```python
-from azure.ai.ml.entities import Workspace
-
-workspace = Workspace(
-    name="ML_Workspace2",
-    location="eastus",
-    resource_group="ML_ResourceGroup2",
-    description="Workspace created using SDK v2",
-)
-
-ml_client.workspaces.begin_create_or_update(workspace)
-print("Workspace created:", workspace.name)
-```
-
-#### Step 4: Save Configuration
+#### Step 3: Save Configuration
 Save the configuration for reuse:
 
 ```python
