@@ -23,13 +23,6 @@ ml_client = MLClient(credential, subscription_id="hiddenforsafety", resource_gro
 print("Connected to workspace:", ml_client.workspace_name)
 ```
 
-### Step 3: Save Configuration
-Save the configuration for reuse:
-
-```python
-with open("config.json", "w") as f:
-    f.write(workspace.serialize())
-```
 ## Learnings
 
 - Azure ML SDK v2 is the latest and most feature-rich SDK for managing ML resources in Azure.
