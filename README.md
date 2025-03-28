@@ -58,8 +58,8 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)
   
-  Developed a comprehensive network monitor dashboard and a suite of real-time engineering and networking tools to collect, analyze and report on the state and performance of hundreds 
-  of Linux radio base stations.
+  Developed a comprehensive network monitor dashboard and a suite of networking tools and scripts to collect, analyze and report on the state and performance of hundreds 
+  of Linux openWRT radio base stations.
   
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
