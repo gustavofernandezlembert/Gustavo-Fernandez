@@ -3,17 +3,17 @@
 ---
 ## Summary
 
-I am a Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi RF design, optimization, rollout, KPI analysis, network performance, and quality assurance. 
+Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi Private Mesh RF design, optimization, rollout, KPI analysis, network performance, and quality assurance. 
 
-My blend of telecom engineering and data science skills allows me to derive actionable insights from telecom data to optimize network performance and deliver high-quality telecommunications services.
+My blend of telecom engineering and analytics skills allows me to derive actionable insights from telecom data to optimize network performance and deliver high-quality telecommunications services.
 
 Expertise:
 
-Wireless Communications: RF design, optimization, and deployment for 3G/4G/5G and Wi-Fi networks.
+Wireless Communications: RF design, optimization, and deployment for 3G/4G/5G and Wi-Fi Private Mesh ISM networks.
 
 RF Tools: Atoll, iBwave, ArcGIS, QGIS, Xcal, Xcap, QXDM, Genex Probe/Assistant, Wavescape.
 
-Data Science & Analytics:  SQL, Python, Tableau, LookerStudio, and Metabase.
+Data Science & Analytics:  SQL, Python, Tableau, LookerStudio.
 
 Statistics & Machine Learning: statistical analysis and machine learning models.
 
@@ -78,6 +78,7 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
   
   Developed a seamless failover system and a Linux-based Bash script to integrate a cellular modem with a wireless mesh network to ensured continuous connectivity for robot operations by enabling the modem to serve as the primary or backup link,   depending on the deployment, thus adding an additional source of connectivity and redundancy against mesh network failures.
   
+<!--
 - [Logistic Regression in R](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
 
 - [Insurance Database SQL Insights](https://github.com/gustavofernandezlembert/Example_of_SQL_Queries)
