@@ -56,7 +56,7 @@ Data Science Lifecycle: data collection, cleaning, model building, and evaluatio
 
 ## Projects
 
-- [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)
+- [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)[](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/ping.py)
   
   Developed a comprehensive network monitor dashboard and a suite of networking tools and scripts to collect, analyze and report on the state and performance of hundreds 
   of Linux openWRT radio base stations.
