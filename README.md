@@ -55,7 +55,7 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)[](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/ping.py)
   
-  Developed a network monitor dashboard and a suite of networking scripts to collect, analyze and report on the state and performance of hundreds of Linux openWRT radios.
+  Developed a network monitor dashboard and a suite of networking scripts to collect, analyze and report on the state and performance of hundreds of Linux based SDR radios.
   
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
   
