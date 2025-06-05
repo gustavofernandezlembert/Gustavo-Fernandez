@@ -8,30 +8,11 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 
 ### Technical Skills
 
-### Technical Skills Cheat Sheet
-
-| Category | Item | What it is |
-|----------|------|------------|
-| **Wireless / Standards** | **3GPP** | Standards body that publishes cellular specs (GSM → 5G NR) |
-| | GSM / UMTS / LTE / NR | Cellular radio-access technologies (industry standards) |
-| | **IEEE 802.11** | Family of Wi-Fi standards |
-| **RF Planning & Testing** | **Atoll** | Radio-network planning & simulation software (Forsk) |
-| | **iBwave** | In-building wireless design suite |
-| | **Ekahau** | Wi-Fi site-survey & design tool |
-| | **Xcal / Xcap** | Drive-test collection (Xcal) & post-processing (Xcap) tools |
-| | **Genex Probe / Assistant** | Drive-test logger & analysis tools (Huawei) |
-| | **TEMS** | Drive-test and network-measurement suite (Infovista) |
-| **Programming** | **Python** | General-purpose programming language |
-| | **SQL** | Structured Query Language for relational databases |
-| **Data Science / Analytics** | **Tableau** | BI & data-visualization platform |
-| | **Looker** | Cloud BI / semantic-layer platform (Google Cloud) |
-| | **Alteryx** | Low-code data prep, ETL, and analytics workflow tool |
-| | **SAS** | Statistical analysis & advanced analytics software |
-| | Statistical modeling | Discipline of building and validating statistical models |
-| | **MLOps** | Practices & tooling for managing the ML lifecycle in production |
-| **GIS & Spatial** | **QGIS** | Open-source geographic-information-system (desktop) |
-| | **ArcGIS** | ESRI’s commercial GIS platform (desktop & server) |
-| | **PostgreSQL / PostGIS** | Relational database + spatial extension for geodata |
+- **Wireless:** 3GPP (GSM / UMTS / LTE / NR), IEEE 802.11  
+- **RF Tools:** Atoll · iBwave · Ekahau · Xcal/Xcap · Genex Probe/Assistant · TEMS  
+- **Programming:** Python · SQL  
+- **Data Science & Analytics:** Tableau · Looker · Alteryx · SAS · MLOps  
+- **GIS & Spatial Analytics:** QGIS · ArcGIS · PostgreSQL/PostGIS
 
 
 
