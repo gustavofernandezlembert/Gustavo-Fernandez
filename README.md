@@ -3,13 +3,13 @@
 ---
 ## Summary
 
-Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi RF design, optimization, network performance management and quality assurance. Proficient in transforming network metrics into actionable insights that improve network and business performance and ensure high-quality wireless and telecom services.
+Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and IEEE 802.11 RF design, optimization, network performance management and quality assurance. Proficient in transforming network data into actionable insights that improve network and business performance and ensure high-quality wireless and telecom services.
 
 
 ### Technical Skills
 
 - **Wireless:** 3GPP (GSM / UMTS / LTE / 5G NR) · IEEE 802.11  
-- **RF Tools:** Atoll · iBwave · Ekahau · Xcal/Xcap · Genex Probe/Assistant · TEMS  
+- **RF Tools:** Atoll · iBwave · Ekahau · Xcal/Xcap · Genex Probe/Assistant · Tems
 - **Programming:** Python · SQL  
 - **Data Science & Analytics:** Tableau · Looker · Alteryx · SAS · MLOps  
 - **GIS & Spatial Analytics:** QGIS · ArcGIS · PostgreSQL/PostGIS
@@ -27,7 +27,7 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)[](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/ping.py)
 
-  Developed a network monitor dashboard and a suite of networking scripts to collect, analyze and report on the state and performance of hundreds of radios.
+  Developed a network monitor dashboard and a suite of networking scripts to collect, analyze and report on the state and performance of hundreds of Mesh radios.
 
 - [Analyzing the Experience and Device Preferences of Android Users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
 
