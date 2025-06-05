@@ -8,7 +8,7 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 
 ### Technical Skills
 
-- **Wireless:** 3GPP (GSM / UMTS / LTE / NR), IEEE 802.11  
+- **Wireless:** 3GPP (GSM / UMTS / LTE / NR) · IEEE 802.11  
 - **RF Tools:** Atoll · iBwave · Ekahau · Xcal/Xcap · Genex Probe/Assistant · TEMS  
 - **Programming:** Python · SQL  
 - **Data Science & Analytics:** Tableau · Looker · Alteryx · SAS · MLOps  
