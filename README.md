@@ -23,22 +23,6 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 - **BS Electrical Engineering**, Santo Domingo Institute of Technology, August 2011
 
 ---
-
-## Experience
-
-- **Wireless System Engineer**, NextEra Robotics (January 2024 - Current)
-- **RF Systems Deployment Engineer**, Pivotal Commware (January 2023 - December 2023)  
-- **RF Engineer II**, Verizon Wireless (June 2021 – December 2022)
-- **Research Assistant**, The University of Texas Rio Grande Valley (June 2019 - May 2021)
-- **RF Engineer**, Manpower (Aug 2016 - Jul 2018)
-- **Network Consulting Engineer**, Cisco (Feb 2015 - Jul 2016)
-- **RF Engineer**, AlticeDo (Sep 2013 - Feb 2015)
-- **RF Engineer**, Wind Telecom (Oct 2010 - Aug 2013)
-
-
-
-
----
 ## Projects
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)[](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/ping.py)
