@@ -59,7 +59,7 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 
 - [Analyzing the Experience and Device Preferences of Android Users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
 
-  Deep dive into a dataset of Android speed tests, provided by Ookla, with hundreds of features to uncover insights for benchmarking network performance and identifying areas for 
+  Deep dive into a dataset of speed tests, provided by Ookla, with hundreds of features to uncover insights for benchmarking network performance and identifying areas for 
   improvement.
   
 - [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
