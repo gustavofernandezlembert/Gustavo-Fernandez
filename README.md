@@ -71,7 +71,8 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 
 - [Radio Failover / Modem Integration](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/09d22eb7eb97bd0065c02bdb97e3e69e935ab91b/Screen%20Shot%202024-12-26%20at%204.32.23%20PM.png)
   
-  Developed a failover system to integrate a cellular router with a wireless mesh network to ensured continuous connectivity for robot/UGV operations by enabling the cell router to serve as the primary or backup link,  depending on the deployment, thus adding an additional source of connectivity and redundancy against mesh network failures.
+  Developed a failover system to integrate a cellular router with a wireless mesh network to ensured continuous connectivity for robot/UGV operations adding an additional source of 
+  connectivity/redundancy against mesh network failures.
   
 <!--
 - [Logistic Regression in R](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
