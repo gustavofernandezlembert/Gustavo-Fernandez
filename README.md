@@ -54,25 +54,25 @@ Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Scien
 ## Projects
 
 - [Network Monitor](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/Screen%20Shot%202024-12-26%20at%204.24.07%20PM.png)[](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/17aac681d5e57f8a830adc1da856b50aa5961f62/ping.py)
-  
-  Developed a network monitor dashboard and a suite of networking scripts to collect, analyze and report on the state and performance of hundreds of Linux based SDR radios.
-  
-- [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
-  
-  Developed a Web application that converts KML files into a table format, streamlining data collection and visualization for geospatial data.
 
-- [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
-  
-  Developed a Link budget web application for 5G RF repeaters to aid in the RF network design and optimization process.
+  Developed a network monitor dashboard and a suite of networking scripts to collect, analyze and report on the state and performance of hundreds of Linux based OpenWrt SDR radios.
 
 - [Analyzing the Experience and Device Preferences of Android Users](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/tree/master/ookla)
 
-  I presented a comprehensive deep dive into a dataset of Android speed tests, provided by Ookla, with over 150 features and 150,000+ observations. 
-  The goal was to uncover insights for benchmarking network performance and identifying areas for improvement.
+  Deep dive into a dataset of Android speed tests, provided by Ookla, with hundreds of features to uncover insights for benchmarking network performance and identifying areas for 
+  improvement.
+  
+- [EarthMark](https://github.com/gustavofernandezlembert/Placemarks.KML_TO_HTML)
+  
+  Developed a Web app that converts KML files into structured table format, streamlining geospatial data sharing and collaboration.
+
+- [Link Budget Application](https://nrboostlinkbudget.wn.r.appspot.com/)
+  
+  Developed a Link budget web app for 5G RF designs with active repeaters to aid in RF network design and optimization.
 
 - [Radio Failover / Modem Integration](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/09d22eb7eb97bd0065c02bdb97e3e69e935ab91b/Screen%20Shot%202024-12-26%20at%204.32.23%20PM.png)
   
-  Developed a seamless failover system and a Linux-based Bash script to integrate a cellular modem with a wireless mesh network to ensured continuous connectivity for robot operations by enabling the modem to serve as the primary or backup link,   depending on the deployment, thus adding an additional source of connectivity and redundancy against mesh network failures.
+  Developed a failover system to integrate a cellular router with a wireless mesh network to ensured continuous connectivity for robot/UGV operations by enabling the cell router to serve as the primary or backup link,  depending on the deployment, thus adding an additional source of connectivity and redundancy against mesh network failures.
   
 <!--
 - [Logistic Regression in R](https://github.com/gustavofernandezlembert/Gustavo-Fernandez/blob/master/Heart.pdf)
