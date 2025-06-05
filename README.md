@@ -5,13 +5,17 @@
 
 Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi RF design, optimization, network performance management and quality assurance. Proficient in transforming network metrics into actionable insights that improve network and business performance and ensure high-quality wireless and telecom services.
 
-Expertise:
 
-Wireless:                       3GPP (GSM/UMTS/LTE/NR), IEEE 802.11
-RF Tools:                       Atoll, iBwave, Ekahau, Xcal/Xcap, Genex Probe/Assistant, Tems
-Programming:                    Python, SQL
-Data Science & Analytics:       Tableau, Looker, Alteryx, SAS, Statistical modeling, MLops
-GIS & Spatial Analytics:        QGIS  ArcGIS  PostgreSQL/PostGIS
+### Technical Skills
+
+| Category | Tools & Standards |
+|----------|------------------|
+| **Wireless** | 3GPP (GSM / UMTS / LTE / NR), IEEE 802.11 |
+| **RF Tools** | Atoll, iBwave, Ekahau, Xcal/Xcap, Genex Probe/Assistant, TEMS |
+| **Programming** | Python, SQL |
+| **Data Science & Analytics** | Tableau, Looker, Alteryx, SAS, Statistical modeling, MLOps |
+| **GIS & Spatial Analytics** | QGIS, ArcGIS, PostgreSQL/PostGIS |
+
 
 ---
 ## Education
