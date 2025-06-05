@@ -3,21 +3,15 @@
 ---
 ## Summary
 
-Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi Private Mesh RF design, optimization, rollout, KPI analysis, network performance, and quality assurance. 
-
-My blend of RF/RAN and analytics skills allows me to derive actionable insights from RF/RAN data to optimize network performance and deliver high-quality wireless and mobile communications services.
+Telecom Engineer specializing in Wireless Communications (RF/RAN) and Data Science Analytics. My expertise includes 3G/4G/5G and Wi-Fi RF design, optimization, network performance management and quality assurance. Proficient in transforming network metrics into actionable insights that improve network and business performance and ensure high-quality wireless and telecom services.
 
 Expertise:
 
-Wireless Communications: RF design, optimization, and deployment for 3G/4G/5G and Wi-Fi Private Mesh ISM networks.
-
-RF Tools: Atoll, iBwave, ArcGIS, QGIS, Xcal, Xcap, QXDM, Genex Probe/Assistant, Wavescape.
-
-Data Science & Analytics:  SQL, Python, Tableau, LookerStudio.
-
-Statistics & Machine Learning: statistical analysis and machine learning models.
-
-Data Science Lifecycle: data collection, cleaning, model building, and evaluation.
+Wireless:                       3GPP (GSM/UMTS/LTE/NR), IEEE 802.11
+RF Tools:                       Atoll, iBwave, Ekahau, Xcal/Xcap, Genex Probe/Assistant, Tems
+Programming:                    Python, SQL
+Data Science & Analytics:       Tableau, Looker, Alteryx, SAS, Statistical modeling, MLops
+GIS & Spatial Analytics:        QGIS  ArcGIS  PostgreSQL/PostGIS
 
 ---
 ## Education
